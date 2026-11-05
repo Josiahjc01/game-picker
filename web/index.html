@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Game Picker — how long will you stay?</title>
+    <meta
+      name="description"
+      content="Search popular games and estimate how many hours an average player puts in — plus an addictiveness grade."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Syne:wght@600;700;800&family=Figtree:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="atmosphere" aria-hidden="true">
+      <div class="orb orb-a"></div>
+      <div class="orb orb-b"></div>
+      <div class="grain"></div>
+    </div>
+
+    <main class="shell">
+      <header class="hero">
+        <p class="eyebrow">Playtime foresight</p>
+        <h1 class="brand">Game Picker</h1>
+        <p class="lede">
+          Search ~1000 popular games and see how long an average player stays —
+          plus how hard the hook hits.
+        </p>
+
+        <div class="search-wrap">
+          <label class="sr-only" for="q">Search games</label>
+          <input
+            id="q"
+            type="search"
+            autocomplete="off"
+            spellcheck="false"
+            placeholder="Search Factorio, Elden Ring, Stardew…"
+            enterkeyhint="search"
+          />
+          <div class="search-glow" aria-hidden="true"></div>
+        </div>
+      </header>
+
+      <section class="workspace" aria-live="polite">
+        <div id="suggestions" class="suggestions" hidden></div>
+
+        <article id="estimate" class="estimate" hidden>
+          <div class="estimate-top">
+            <div class="cover-wrap">
+              <img id="cover" alt="" />
+            </div>
+            <div class="estimate-copy">
+              <p id="source-pill" class="pill"></p>
+              <h2 id="game-title"></h2>
+              <p id="game-meta" class="meta"></p>
+            </div>
+          </div>
+
+          <div class="metrics">
+            <div class="metric metric-hours">
+              <p class="metric-label">Est. average player</p>
+              <p class="metric-value">
+                <span id="hours">0</span><span class="unit">h</span>
+              </p>
+            </div>
+            <div class="metric metric-grade">
+              <p class="metric-label">Addictiveness</p>
+              <p class="metric-value">
+                <span id="grade">—</span>
+                <span id="score" class="score-sub"></span>
+              </p>
+            </div>
+          </div>
+
+          <div class="bars" id="bars"></div>
+          <p id="caveat" class="caveat"></p>
+        </article>
+
+        <p id="empty" class="empty">
+          Start typing to pick a game. Estimates use Steam playtime signals
+          (factory titles use higher-confidence reviewer data).
+        </p>
+      </section>
+
+      <footer class="foot">
+        <span id="lib-count">Loading library…</span>
+        <span class="sep">·</span>
+        <span>Model + data notes in README</span>
+      </footer>
+    </main>
+
+    <script src="./app.js" type="module"></script>
+  </body>
+</html>

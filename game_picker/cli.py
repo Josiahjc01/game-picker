@@ -142,6 +142,17 @@ def build_parser() -> argparse.ArgumentParser:
     keys = sub.add_parser("feature-keys", help="Print required keys for score-one input")
     keys.set_defaults(func=lambda _args: (print("\n".join(FEATURE_KEYS)), 0)[1])
 
+    serve = sub.add_parser("serve", help="Serve the searchable Game Picker web UI")
+    serve.add_argument("--host", default="127.0.0.1")
+    serve.add_argument("--port", type=int, default=8765)
+
+    def _serve(args: argparse.Namespace) -> int:
+        from .serve import main as serve_main
+
+        return serve_main(["--host", args.host, "--port", str(args.port)])
+
+    serve.set_defaults(func=_serve)
+
     return parser
 
 
