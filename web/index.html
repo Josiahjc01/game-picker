@@ -3,10 +3,10 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Game Picker — how long will you stay?</title>
+    <title>Game Picker — hours for you</title>
     <meta
       name="description"
-      content="Search popular games and estimate how many hours an average player puts in — plus an addictiveness grade."
+      content="Set your play preferences and weekly free time, then see personalized hour estimates vs average players."
     />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -28,9 +28,16 @@
         <p class="eyebrow">Playtime foresight</p>
         <h1 class="brand">Game Picker</h1>
         <p class="lede">
-          Search ~1000 popular games and see how long an average player stays —
-          plus how hard the hook hits.
+          Set how you play — then search ~1000 games for
+          <em>your</em> hours, not just the average player.
         </p>
+
+        <div class="hero-actions">
+          <button type="button" id="profile-toggle" class="btn-profile" aria-expanded="false">
+            Your play profile
+          </button>
+          <span id="profile-summary" class="profile-summary">Defaults · 8h/week</span>
+        </div>
 
         <div class="search-wrap">
           <label class="sr-only" for="q">Search games</label>
@@ -45,6 +52,76 @@
           <div class="search-glow" aria-hidden="true"></div>
         </div>
       </header>
+
+      <section id="profile-panel" class="profile-panel" hidden>
+        <div class="profile-head">
+          <h2>Play profile</h2>
+          <p>
+            Deterministic multipliers on the average-player baseline — same
+            profile always yields the same adjustment.
+          </p>
+        </div>
+
+        <div class="profile-grid">
+          <fieldset class="prof-block">
+            <legend>Genres you like</legend>
+            <div id="liked-genres" class="chip-row"></div>
+          </fieldset>
+
+          <fieldset class="prof-block">
+            <legend>Genres you avoid</legend>
+            <div id="disliked-genres" class="chip-row"></div>
+          </fieldset>
+
+          <fieldset class="prof-block">
+            <legend>Genres you’ve played recently</legend>
+            <div id="recent-genres" class="chip-row"></div>
+          </fieldset>
+
+          <label class="prof-block prof-block-wide">
+            <span>Games played recently</span>
+            <textarea
+              id="recent-games"
+              rows="2"
+              placeholder="Factorio, Hades, Celeste…"
+            ></textarea>
+          </label>
+
+          <label class="prof-slider">
+            <span>Pacing <em id="pacing-label">balanced</em></span>
+            <input id="pacing" type="range" min="0" max="100" value="50" />
+            <span class="slider-ends"><span>Short sessions</span><span>Long grind</span></span>
+          </label>
+
+          <label class="prof-slider">
+            <span>Completionism <em id="completion-label">mixed</em></span>
+            <input id="completionism" type="range" min="0" max="100" value="50" />
+            <span class="slider-ends"><span>Dabbler</span><span>100% everything</span></span>
+          </label>
+
+          <label class="prof-slider">
+            <span>Solo ↔ multiplayer <em id="mp-label">leans solo</em></span>
+            <input id="multiplayer" type="range" min="0" max="100" value="35" />
+            <span class="slider-ends"><span>Solo</span><span>Multiplayer</span></span>
+          </label>
+
+          <label class="prof-slider">
+            <span>Complexity tolerance <em id="complexity-label">moderate</em></span>
+            <input id="complexity" type="range" min="0" max="100" value="55" />
+            <span class="slider-ends"><span>Simple</span><span>Systems-heavy</span></span>
+          </label>
+
+          <label class="prof-block">
+            <span>Weekly free time (hours)</span>
+            <input id="weekly-hours" type="number" min="0.5" max="80" step="0.5" value="8" />
+          </label>
+
+          <div class="prof-actions">
+            <button type="button" id="profile-apply" class="btn-primary">Apply profile</button>
+            <button type="button" id="profile-reset" class="btn-ghost">Reset</button>
+          </div>
+        </div>
+      </section>
 
       <section class="workspace" aria-live="polite">
         <div id="suggestions" class="suggestions" hidden></div>
@@ -61,15 +138,23 @@
             </div>
           </div>
 
-          <div class="metrics">
+          <div class="metrics metrics-compare">
             <div class="metric metric-hours">
-              <p class="metric-label">Est. average player</p>
+              <p class="metric-label">Your estimate</p>
               <p class="metric-value">
                 <span id="hours">0</span><span class="unit">h</span>
               </p>
+              <p id="hours-delta" class="metric-sub"></p>
+            </div>
+            <div class="metric metric-baseline">
+              <p class="metric-label">Average player</p>
+              <p class="metric-value metric-value-sm">
+                <span id="baseline-hours">0</span><span class="unit">h</span>
+              </p>
+              <p id="baseline-grade-line" class="metric-sub"></p>
             </div>
             <div class="metric metric-grade">
-              <p class="metric-label">Addictiveness</p>
+              <p class="metric-label">Your addictiveness</p>
               <p class="metric-value">
                 <span id="grade">—</span>
                 <span id="score" class="score-sub"></span>
@@ -77,20 +162,22 @@
             </div>
           </div>
 
+          <div class="calendar" id="calendar"></div>
+          <div class="reasons" id="reasons"></div>
           <div class="bars" id="bars"></div>
           <p id="caveat" class="caveat"></p>
         </article>
 
         <p id="empty" class="empty">
-          Start typing to pick a game. Estimates use Steam playtime signals
-          (factory titles use higher-confidence reviewer data).
+          Open your play profile, then search a game. Estimates start from the
+          average-player model and apply fair, documented preference multipliers.
         </p>
       </section>
 
       <footer class="foot">
         <span id="lib-count">Loading library…</span>
         <span class="sep">·</span>
-        <span>Model + data notes in README</span>
+        <span>Model + calibration notes in README</span>
       </footer>
     </main>
 

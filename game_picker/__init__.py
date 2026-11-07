@@ -10,14 +10,18 @@ from .model import (
     score_addictiveness,
     score_game,
 )
+from .personalize import PersonalizedResult, UserProfile, personalize_game
 
 __all__ = [
     "FEATURE_KEYS",
     "GameFeatures",
     "Grade",
     "ScoreResult",
+    "PersonalizedResult",
+    "UserProfile",
     "estimate_avg_player_hours",
     "grade_from_score",
+    "personalize_game",
     "score_addictiveness",
     "score_game",
 ]

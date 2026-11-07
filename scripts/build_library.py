@@ -28,9 +28,42 @@ from game_picker.model import score_game  # noqa: E402
 EXCLUDE = re.compile(
     r"playtest|soundtrack|\bost\b|dedicated server|\bsdk\b| server\b|\bdemo\b|"
     r"bonus content|artbook|art book|digital comic|\btrailer\b|mod tools|"
-    r"editor only|vtuber",
+    r"editor only|vtuber|cursor changer|crosshair|overlay|wallpaper engine|"
+    r"\bhud\b|benchmark|server browser",
     re.I,
 )
+
+NON_GAME_GENRES = {
+    "Utilities",
+    "Design & Illustration",
+    "Animation & Modeling",
+    "Video Production",
+    "Audio Production",
+    "Photo Editing",
+    "Web Publishing",
+    "Software Training",
+    "Game Development",
+    "Accounting",
+}
+
+
+def _as_str_list(value, limit: int | None = None) -> list[str]:
+    """Normalize parquet list / ndarray / None into a plain string list."""
+    if value is None:
+        return []
+    try:
+        # numpy arrays / pandas lists
+        items = list(value)
+    except TypeError:
+        return []
+    out: list[str] = []
+    for item in items:
+        s = str(item).strip()
+        if s:
+            out.append(s)
+    if limit is not None:
+        return out[:limit]
+    return out
 
 FACTORY_STEAM_NAMES = {
     "Factorio": "Factorio",
@@ -107,8 +140,9 @@ def map_steam_row(r) -> dict:
         "app_id": str(r["appID"]),
         "header_image": r.get("header_image") or "",
         "release_date": r.get("release_date") or "",
-        "genres": list(r["genres"]) if isinstance(r.get("genres"), list) else [],
-        "tags": list(r["tags"])[:12] if isinstance(r.get("tags"), list) else [],
+        "genres": _as_str_list(r.get("genres")),
+        "tags": _as_str_list(r.get("tags"), limit=12),
+        "categories": _as_str_list(r.get("categories"), limit=20),
         "positive": int(r.get("positive") or 0),
         "negative": int(r.get("negative") or 0),
         "estimated_owners": r.get("estimated_owners") or "",
@@ -175,6 +209,7 @@ def factory_entry(row: dict, steam_meta: dict | None = None) -> dict:
         "release_date": "",
         "genres": ["Strategy", "Simulation"],
         "tags": ["Factory", "Automation", "Base Building"],
+        "categories": ["Single-player"],
         "positive": 0,
         "negative": 0,
         "estimated_owners": "",
@@ -199,9 +234,22 @@ def factory_entry(row: dict, steam_meta: dict | None = None) -> dict:
         "components": result.components,
     }
     if steam_meta:
-        for key in ("app_id", "header_image", "release_date", "positive", "negative", "estimated_owners"):
+        for key in (
+            "app_id",
+            "header_image",
+            "release_date",
+            "positive",
+            "negative",
+            "estimated_owners",
+            "genres",
+            "tags",
+            "categories",
+        ):
             if steam_meta.get(key):
                 entry[key] = steam_meta[key]
+        # Keep factory strategy/simulation signal even if Steam genres differ.
+        merged = list(dict.fromkeys([*(entry.get("genres") or []), "Strategy", "Simulation"]))
+        entry["genres"] = merged[:6]
     return entry
 
 
@@ -212,6 +260,16 @@ def build(parquet_path: Path, limit: int, factory_path: Path) -> dict:
     mask = (df["median_playtime_forever"].fillna(0) > 0) & df["name"].notna()
     cand = df.loc[mask].copy()
     cand = cand[~cand["name"].str.contains(EXCLUDE, na=False, regex=True)]
+
+    def is_non_game(row) -> bool:
+        genres = set(_as_str_list(row.get("genres")))
+        if genres and genres <= NON_GAME_GENRES:
+            return True
+        if genres & NON_GAME_GENRES and not (genres - NON_GAME_GENRES - {"Free To Play", "Early Access"}):
+            return True
+        return False
+
+    cand = cand[~cand.apply(is_non_game, axis=1)]
     cand["pop"] = (
         cand["peak_ccu"].fillna(0).astype(float)
         + cand["recommendations"].fillna(0).astype(float) * 0.05
@@ -281,8 +339,9 @@ def write_web_bundle(payload: dict, web_json: Path) -> None:
                 "name": g["name"],
                 "app_id": g.get("app_id", ""),
                 "header_image": g.get("header_image", ""),
-                "genres": (g.get("genres") or [])[:4],
-                "tags": (g.get("tags") or [])[:6],
+                "genres": (g.get("genres") or [])[:6],
+                "tags": (g.get("tags") or [])[:8],
+                "categories": (g.get("categories") or [])[:12],
                 "data_source": g["data_source"],
                 "confidence": g["confidence"],
                 "addictiveness": g["addictiveness"],

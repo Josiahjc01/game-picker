@@ -1,7 +1,8 @@
 # Game Picker
 
-Estimate how long an average player will stick with a game — and how hard the
-hook hits — then search ~1000 popular titles in a small web UI.
+Estimate how long **you** are likely to stick with a game — starting from an
+average-player baseline, then adjusting with your preferences, recent genres,
+and weekly free time.
 
 The scoring model started from the
 [Factory Game Reviews](https://docs.google.com/spreadsheets/d/1Ri_fVBqFZL5VwGyyKAg2WYtw54rgRRWldSOx-vQRDmM/edit)
@@ -16,8 +17,13 @@ python3 -m game_picker serve
 # open http://127.0.0.1:8765/
 ```
 
-Search a title to see **estimated average-player hours**, an **addictiveness
-grade (S–F)**, and the five component bars.
+1. Open **Your play profile** — liked/avoided genres, recent games & genres,
+   pacing, completionism, solo↔MP, complexity, and **weekly free time**.
+2. Search a title to see **your personalized hours** next to the **average-player
+   baseline**, an adjusted addictiveness grade, calendar weeks/months at your
+   weekly budget, and the reasons for the adjustment.
+
+Profile choices persist in `sessionStorage` for the browser tab.
 
 ## Quick start — CLI
 
@@ -105,6 +111,41 @@ hours = (0.70 × scaled_median + 0.30 × capped_avg)
 ```
 
 See `game_picker/model.py`.
+
+## Personalization (fair calibration)
+
+Baseline scores stay as above. A user profile then applies **clamped,
+documented multipliers** (`game_picker/personalize.py`, mirrored in
+`web/personalize.js`):
+
+1. **Affinity** ∈ [-1, 1] from liked/disliked/recent genre overlap (+ small
+   familiarity boost if the title appears in “games played recently”). Thin
+   genre metadata mutes affinity.
+2. **Fit terms** (0–1): pacing vs depth, complexity tolerance vs game
+   complexity, multiplayer bias vs Steam categories.
+3. **Hours multiplier** (clamped **0.50–1.55**):
+
+```text
+hours_mult = 1
+  + 0.35·affinity
+  + 0.15·(pacing_fit−0.5)·2
+  + 0.12·(complexity_fit−0.5)·2
+  + 0.10·(mp_fit−0.5)·2
+  + 0.10·(completionism−0.5)·2
+
+H_pref = H_avg × hours_mult
+```
+
+4. **Weekly free time** sets a calendar horizon (about 4–26 weeks, longer when
+   the baseline hook and affinity are high / completionism is high):
+
+```text
+H_you = min(H_pref, weekly_hours × horizon_weeks)
+weeks ≈ H_you / weekly_hours
+```
+
+Addictiveness shifts modestly with affinity/fits and is re-graded. The UI
+always shows **your estimate vs average**.
 
 ## Sample estimates (checked-in library)
 

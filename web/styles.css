@@ -353,10 +353,232 @@ body {
   border-color: rgba(240, 180, 41, 0.35);
 }
 
+.hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75rem 1rem;
+  margin-top: 0.35rem;
+}
+
+.btn-profile,
+.btn-primary,
+.btn-ghost {
+  font: 600 0.95rem/1.2 var(--font-body);
+  border-radius: 999px;
+  cursor: pointer;
+  border: 1px solid var(--line);
+  padding: 0.7rem 1.1rem;
+  transition: transform 160ms ease, border-color 160ms ease, background 160ms ease;
+}
+
+.btn-profile {
+  background: rgba(198, 243, 90, 0.12);
+  color: var(--lime);
+  border-color: rgba(198, 243, 90, 0.35);
+}
+
+.btn-profile[aria-expanded="true"] {
+  background: rgba(46, 196, 182, 0.18);
+  border-color: rgba(46, 196, 182, 0.5);
+  color: var(--fog);
+}
+
+.btn-primary {
+  background: linear-gradient(120deg, rgba(198, 243, 90, 0.9), rgba(46, 196, 182, 0.85));
+  color: #071015;
+  border: 0;
+}
+
+.btn-ghost {
+  background: transparent;
+  color: var(--fog-dim);
+}
+
+.btn-profile:hover,
+.btn-primary:hover,
+.btn-ghost:hover {
+  transform: translateY(-1px);
+}
+
+.profile-summary {
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  color: var(--fog-dim);
+}
+
+.profile-panel {
+  border: 1px solid var(--line);
+  border-radius: calc(var(--radius) + 2px);
+  background: rgba(8, 18, 22, 0.82);
+  backdrop-filter: blur(12px);
+  padding: clamp(1rem, 2.5vw, 1.4rem);
+  animation: rise 420ms cubic-bezier(0.2, 0.8, 0.2, 1) both;
+}
+
+.profile-head h2 {
+  margin: 0 0 0.25rem;
+  font-family: var(--font-display);
+  font-size: 1.35rem;
+  letter-spacing: -0.02em;
+}
+
+.profile-head p {
+  margin: 0 0 1rem;
+  color: var(--fog-dim);
+  font-size: 0.92rem;
+  max-width: 40rem;
+}
+
+.profile-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem 1.1rem;
+}
+
+.prof-block,
+.prof-slider {
+  display: grid;
+  gap: 0.45rem;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  min-width: 0;
+}
+
+.prof-block-wide {
+  grid-column: 1 / -1;
+}
+
+.prof-block legend,
+.prof-block > span,
+.prof-slider > span {
+  font-size: 0.86rem;
+  color: var(--fog-dim);
+}
+
+.prof-slider em {
+  color: var(--teal);
+  font-style: normal;
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  margin-left: 0.35rem;
+}
+
+.chip-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.chip {
+  appearance: none;
+  border: 1px solid var(--line);
+  background: rgba(255, 255, 255, 0.03);
+  color: var(--fog-dim);
+  border-radius: 999px;
+  padding: 0.35rem 0.7rem;
+  font: 500 0.8rem/1 var(--font-body);
+  cursor: pointer;
+}
+
+.chip[aria-pressed="true"] {
+  color: var(--ink);
+  background: var(--lime);
+  border-color: transparent;
+}
+
+.chip.chip-avoid[aria-pressed="true"] {
+  background: var(--danger-soft);
+  color: #1a0a06;
+}
+
+#recent-games,
+#weekly-hours {
+  width: 100%;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: rgba(7, 16, 21, 0.72);
+  color: var(--fog);
+  padding: 0.7rem 0.85rem;
+  font: 500 0.95rem/1.35 var(--font-body);
+}
+
+#weekly-hours {
+  max-width: 8rem;
+}
+
+.prof-slider input[type="range"] {
+  width: 100%;
+  accent-color: var(--teal);
+}
+
+.slider-ends {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.72rem;
+  color: rgba(155, 184, 174, 0.75);
+}
+
+.prof-actions {
+  grid-column: 1 / -1;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  align-items: center;
+}
+
 .metrics {
   display: grid;
   grid-template-columns: 1.2fr 1fr;
   gap: 0.85rem;
+}
+
+.metrics-compare {
+  grid-template-columns: 1.15fr 0.95fr 0.95fr;
+}
+
+.metric-value-sm {
+  font-size: clamp(1.6rem, 4.5vw, 2.2rem) !important;
+  color: var(--fog-dim) !important;
+}
+
+.metric-sub {
+  margin: 0.35rem 0 0;
+  font-size: 0.82rem;
+  color: var(--fog-dim);
+}
+
+.calendar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.cal-pill {
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 0.4rem 0.75rem;
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  color: var(--teal);
+  background: rgba(46, 196, 182, 0.08);
+}
+
+.reasons {
+  display: grid;
+  gap: 0.35rem;
+}
+
+.reason {
+  margin: 0;
+  font-size: 0.88rem;
+  color: var(--fog-dim);
+}
+
+.reason::before {
+  content: "→ ";
+  color: var(--lime);
 }
 
 .metric {
@@ -492,7 +714,9 @@ body {
 
 @media (max-width: 720px) {
   .estimate-top,
-  .metrics {
+  .metrics,
+  .metrics-compare,
+  .profile-grid {
     grid-template-columns: 1fr;
   }
 
