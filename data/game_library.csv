@@ -1,0 +1,1001 @@
+name,app_id,data_source,confidence,addictiveness,grade,estimated_avg_player_hours,scaled_median_playtime_h,avg_last_2w_h,peak_players
+Fish Idle 2: Underwater Mystery,3037410,steam_dataset,mixed,97.4,S,1097.7,799.783,138.75,3589.0
+Multiverse Loot Hunter,2776450,steam_dataset,mixed,95.9,S,402.5,362.75,137.967,1492.0
+Football Manager 2022,1569040,steam_dataset,mixed,82.7,A,283.4,197.317,13.717,1742.0
+Football Manager 2023,1904540,steam_dataset,mixed,87.2,S,281.1,189.717,17.967,4178.0
+Football Manager 2021,1263850,steam_dataset,mixed,48.1,D,245.7,185.133,0.0,1122.0
+Captain of Industry,1594320,factory_reviews,high,80.7,A,244.5,177.309,15.24,7103.0
+Football Manager 2024,2252570,steam_dataset,mixed,94.7,S,244.2,161.883,31.767,47931.0
+Football Manager 2020,1100600,steam_dataset,mixed,45.7,D,201.7,155.033,0.0,1012.0
+Factorio,427520,factory_reviews,high,84.0,A,158.6,106.314,22.406,22007.0
+Dyson Sphere Program,1366540,factory_reviews,high,53.9,C,157.9,114.004,4.711,5876.0
+Counter-Strike 2,730,steam_dataset,mixed,75.4,A,154.3,103.95,11.7,1013936.0
+PUBG: BATTLEGROUNDS,578080,steam_dataset,mixed,75.5,A,150.6,101.367,12.167,314682.0
+Grand Theft Auto V Legacy,271590,steam_dataset,mixed,76.4,A,144.9,97.433,14.533,67851.0
+FIFA 22,1506830,steam_dataset,mixed,54.4,C,133.5,99.883,3.85,1319.0
+Cookie Clicker,1454400,steam_dataset,mixed,81.5,A,126.5,83.817,43.3,9583.0
+Satisfactory,526870,factory_reviews,high,83.5,A,124.8,83.366,26.528,28896.0
+EA SPORTS™ FIFA 23,1811260,steam_dataset,mixed,58.5,C,124.6,94.05,6.033,1280.0
+Like a Dragon: Infinite Wealth,2072450,steam_dataset,mixed,76.5,A,117.4,78.1,60.0,655.0
+ELDEN RING,1245620,steam_dataset,mixed,68.4,B,117.1,97.2,8.333,29529.0
+Your Chronicle,1546320,steam_dataset,mixed,80.7,A,113.1,74.317,222.833,3324.0
+Mount & Blade II: Bannerlord,261550,steam_dataset,mixed,69.7,B,112.3,77.45,14.05,14477.0
+RimWorld,294100,steam_dataset,mixed,71.9,B,110.1,74.083,16.583,19211.0
+EA SPORTS FC™ 24,2195250,steam_dataset,mixed,48.0,D,104.6,76.683,2.85,5110.0
+Team Fortress 2,440,steam_dataset,mixed,56.5,C,102.7,71.033,4.783,43819.0
+Baldur's Gate 3,1086940,steam_dataset,mixed,66.4,B,100.3,78.3,9.883,54771.0
+EA SPORTS™ FIFA 21,1313860,steam_dataset,mixed,28.7,F,100.0,76.883,0.0,138.0
+Alchemy Factory,,factory_reviews,high,42.8,D,96.0,75.083,5.197,1428.0
+Cornerpond,3454590,steam_dataset,mixed,74.5,B,93.7,66.2,87.583,1100.0
+New World: Aeternum,1063730,steam_dataset,mixed,31.6,F,87.2,63.017,0.167,5583.0
+MX Bikes,655500,steam_dataset,mixed,51.8,C,84.1,58.267,6.017,3605.0
+Total War: WARHAMMER III,1142710,steam_dataset,mixed,63.0,C,83.7,56.7,12.25,16842.0
+Diablo® IV,2344520,steam_dataset,mixed,66.5,B,82.8,55.833,18.95,8835.0
+Farming Simulator 25,2300320,steam_dataset,mixed,62.2,C,82.3,55.767,12.483,13431.0
+Escape from Tarkov,3932890,steam_dataset,mixed,68.7,B,82.1,69.783,51.983,0.0
+NBA 2K25,2878980,steam_dataset,mixed,54.9,C,81.5,56.0,6.567,27486.0
+Dune: Awakening,1172710,steam_dataset,mixed,47.9,D,80.2,67.567,6.517,0.0
+FINAL FANTASY XIV Online,39210,steam_dataset,mixed,75.3,A,79.1,52.4,40.183,19824.0
+Foundry,,factory_reviews,high,31.9,F,78.9,57.673,2.839,420.0
+EA SPORTS FC™ 25,2669320,steam_dataset,mixed,48.9,D,77.8,53.983,4.183,42032.0
+Farming Simulator 22,1248130,steam_dataset,mixed,60.3,C,77.2,52.467,12.467,5419.0
+ROMANCE OF THE THREE KINGDOMS XIV,872410,steam_dataset,mixed,65.2,B,77.0,51.817,22.217,1827.0
+Monster Hunter: World,582010,steam_dataset,mixed,61.3,C,76.4,51.733,12.833,11923.0
+Rust,252490,steam_dataset,mixed,70.7,B,76.2,50.733,20.767,143870.0
+Path of Exile 2,2694490,steam_dataset,mixed,66.5,B,75.2,50.467,19.35,16727.0
+The Elder Scrolls V: Skyrim,72850,steam_dataset,mixed,38.5,D,75.2,53.2,2.683,1463.0
+The Binding of Isaac: Rebirth,250900,steam_dataset,mixed,51.3,C,74.2,51.3,5.7,14904.0
+EA SPORTS™ Madden NFL 25,2582560,steam_dataset,mixed,30.7,F,73.5,74.417,0.933,1823.0
+Microsoft Flight Simulator (2020) 40th Anniversary Edition,1250410,steam_dataset,mixed,50.9,C,73.4,50.683,6.817,3245.0
+Beasts of Bermuda,719890,steam_dataset,mixed,26.5,F,72.6,52.817,0.0,1143.0
+StarRupture,,factory_reviews,high,57.3,C,72.4,54.103,15.279,3590.0
+The Hundred Line -Last Defense Academy-,3014080,steam_dataset,mixed,36.4,D,69.6,69.65,2.517,1518.0
+Rocket League®,252950,steam_dataset,mixed,55.7,C,68.4,46.783,8.183,21106.0
+Kingdom Come: Deliverance II,1771300,steam_dataset,mixed,59.4,C,68.2,58.567,13.383,7073.0
+Mindustry,1127400,factory_reviews,high,34.2,F,67.4,48.603,2.467,3321.0
+Cyberpunk 2077,1091500,steam_dataset,mixed,53.6,C,66.8,53.55,7.4,22265.0
+Hearts of Iron IV,394360,steam_dataset,mixed,60.5,C,65.9,44.583,11.95,32112.0
+Monster Hunter Wilds,2246340,steam_dataset,mixed,54.2,C,65.4,54.167,8.583,12494.0
+MONSTER HUNTER RISE,1446780,steam_dataset,mixed,50.0,C,64.6,44.45,8.117,3658.0
+Total War: WARHAMMER II,594570,steam_dataset,mixed,51.3,C,64.3,44.183,9.367,1464.0
+Total War: ROME II - Emperor Edition,214950,steam_dataset,mixed,54.2,C,63.2,43.133,10.55,3901.0
+Sid Meier's Civilization® V,8930,steam_dataset,mixed,68.8,B,62.4,41.483,33.8,12206.0
+ARK: Survival Ascended,2399830,steam_dataset,mixed,60.5,C,62.0,41.867,15.333,12007.0
+Tom Clancy's Rainbow Six® Siege X,359550,steam_dataset,mixed,57.5,C,61.5,41.7,10.25,51847.0
+Shapez 2,2162800,factory_reviews,high,27.6,F,61.3,47.59,2.703,555.0
+DARK SOULS™ II,236430,steam_dataset,mixed,26.1,F,58.5,46.2,1.417,197.0
+Starfield,1716740,steam_dataset,mixed,32.9,F,58.3,47.717,1.833,3725.0
+Last Epoch,899770,steam_dataset,mixed,44.9,D,57.5,43.55,5.683,5831.0
+Assassin's Creed® Odyssey,812140,steam_dataset,mixed,50.1,C,57.0,45.2,9.4,2629.0
+Bongo Cat,3419430,steam_dataset,mixed,72.4,B,56.5,37.083,123.9,164168.0
+DARK SOULS™ III,374320,steam_dataset,mixed,42.9,D,56.2,39.417,5.467,4381.0
+Melvor Idle,1267910,steam_dataset,mixed,68.2,B,55.5,36.683,67.483,4551.0
+Farming Simulator 17,447020,steam_dataset,mixed,26.8,F,55.4,39.733,1.717,221.0
+鬼谷八荒 Tale of Immortal,1468810,steam_dataset,mixed,46.7,D,55.4,41.883,7.25,4116.0
+HELLDIVERS™ 2,553850,steam_dataset,mixed,48.2,D,55.0,37.733,6.65,53399.0
+Divinity: Original Sin 2 - Definitive Edition,435150,steam_dataset,mixed,42.6,D,54.2,40.4,5.55,3510.0
+Metaphor: ReFantazio,2679460,steam_dataset,mixed,39.1,D,53.8,47.867,4.667,1753.0
+Black Myth: Wukong,2358720,steam_dataset,mixed,45.8,D,52.5,46.867,6.65,15004.0
+Battle Brothers,365360,steam_dataset,mixed,59.1,C,52.3,35.133,25.15,1091.0
+Tiny Pasture,3167550,steam_dataset,mixed,34.1,F,51.6,41.95,2.9,2256.0
+ELDEN RING NIGHTREIGN,2622380,steam_dataset,mixed,57.9,C,51.3,37.367,14.283,163599.0
+Victoria 3,529340,steam_dataset,mixed,50.7,C,51.2,34.95,10.383,4609.0
+DayZ,221100,steam_dataset,mixed,67.6,B,50.7,33.633,29.8,37066.0
+Total War: THREE KINGDOMS,779340,steam_dataset,mixed,47.1,D,50.7,34.867,8.133,4507.0
+EA SPORTS FC™ 26,3405690,steam_dataset,mixed,49.4,D,50.5,40.55,15.65,0.0
+Terraria,105600,steam_dataset,mixed,53.1,C,50.3,34.183,10.367,24580.0
+Crusader Kings III,1158310,steam_dataset,mixed,55.3,C,50.2,33.95,13.2,14302.0
+Palworld,1623730,steam_dataset,mixed,49.9,D,48.2,36.767,9.383,18028.0
+Farming Simulator 19,787860,steam_dataset,mixed,31.5,F,47.5,33.683,2.65,983.0
+Persona 5 Royal,1687950,steam_dataset,mixed,41.8,D,46.1,35.783,6.15,4994.0
+TEKKEN 8,1778820,steam_dataset,mixed,48.2,D,46.0,31.483,9.883,4409.0
+Hollow Knight: Silksong,1030300,steam_dataset,mixed,28.4,F,45.8,42.983,3.533,0.0
+Wartales,1527950,steam_dataset,mixed,54.4,C,45.5,30.7,20.667,1632.0
+Borderlands 4,1285190,steam_dataset,mixed,37.5,D,44.9,39.483,7.433,0.0
+Persona 3 Reload,2161700,steam_dataset,mixed,42.9,D,44.7,37.733,8.117,1683.0
+Fallout 4,377160,steam_dataset,mixed,47.9,D,44.6,30.483,9.1,11179.0
+Red Dead Redemption 2,1174180,steam_dataset,mixed,44.2,D,44.3,30.467,6.5,29885.0
+Last Oasis,903950,steam_dataset,mixed,53.8,C,43.4,29.367,25.133,153.0
+Horizon Forbidden West™ Complete Edition,2420110,steam_dataset,mixed,35.6,D,42.9,35.15,5.0,1005.0
+Euro Truck Simulator 2,227300,steam_dataset,mixed,48.6,D,42.7,29.133,9.4,17281.0
+PGA TOUR 2K25,2385530,steam_dataset,mixed,54.9,C,42.7,28.767,21.4,1789.0
+Elin,2135150,steam_dataset,mixed,62.6,C,42.6,28.167,110.367,1277.0
+Dragon Age™: The Veilguard,1845910,steam_dataset,mixed,40.5,D,42.5,36.5,7.95,804.0
+Eco,382310,steam_dataset,mixed,16.2,F,42.4,30.833,0.2,692.0
+Stardew Valley,413150,steam_dataset,mixed,47.4,D,42.2,28.8,8.4,50662.0
+Slay the Spire,646570,steam_dataset,mixed,38.7,D,41.9,29.05,4.767,15038.0
+ARC Raiders,1808500,steam_dataset,mixed,46.5,D,41.8,33.45,16.233,0.0
+Valheim,892970,steam_dataset,mixed,49.7,D,41.6,28.217,11.8,14439.0
+Granblue Fantasy: Relink,881020,steam_dataset,mixed,44.8,D,41.3,29.8,11.367,996.0
+DARK SOULS™ II: Scholar of the First Sin,335300,steam_dataset,mixed,51.8,C,40.9,30.5,18.633,1612.0
+Mount & Blade: Warband,48700,steam_dataset,mixed,44.2,D,40.9,28.067,8.75,3055.0
+F1® Manager 2024,2591280,steam_dataset,mixed,44.6,D,40.8,28.033,11.383,1262.0
+Wandering Sword,1876890,steam_dataset,mixed,34.1,F,40.7,28.667,4.717,1679.0
+Total War: ATTILA,325610,steam_dataset,mixed,46.4,D,40.6,27.717,11.483,1422.0
+Stellaris,281990,steam_dataset,mixed,48.2,D,40.5,27.617,9.667,13727.0
+Spirit City: Lofi Sessions,2113850,steam_dataset,mixed,40.5,D,39.9,27.533,7.633,1742.0
+Microsoft Flight Simulator 2024,2537590,steam_dataset,mixed,39.3,D,39.8,27.483,7.283,1622.0
+Europa Universalis IV,236850,steam_dataset,mixed,44.8,D,39.7,27.333,6.9,12445.0
+OUTRIDERS,680420,steam_dataset,mixed,12.1,F,39.6,32.917,0.0,178.0
+"Warhammer 40,000: Darktide",1361210,steam_dataset,mixed,50.1,C,39.6,26.85,13.417,7267.0
+God of War Ragnarök,2322010,steam_dataset,mixed,34.5,F,39.1,35.833,4.967,1591.0
+Yakuza: Like a Dragon,1235140,steam_dataset,mixed,40.3,D,38.8,32.467,9.25,470.0
+They Are Billions,644930,steam_dataset,mixed,58.3,C,38.5,25.633,37.3,2751.0
+MineMogul,,factory_reviews,high,26.7,F,38.1,29.708,4.561,710.0
+Disney Dreamlight Valley,1401590,steam_dataset,mixed,54.5,C,37.9,25.433,23.267,3587.0
+NGU IDLE,1147690,steam_dataset,mixed,63.7,C,37.9,25.05,84.517,3382.0
+DYNASTY WARRIORS: ORIGINS,2384580,steam_dataset,mixed,33.7,F,37.8,33.7,5.033,1314.0
+Myth of Empires,1371580,steam_dataset,mixed,59.1,C,37.2,24.867,31.467,2060.0
+Dying Light 2 Stay Human: Reloaded Edition,534380,steam_dataset,mixed,45.8,D,37.1,29.567,11.45,4223.0
+FANTASY LIFE i: The Girl Who Steals Time,2993780,steam_dataset,mixed,50.0,C,36.9,29.167,13.283,19498.0
+Hero's Adventure: Road to Passion,1948980,steam_dataset,mixed,41.4,D,36.7,26.55,10.2,963.0
+Sid Meier’s Civilization® VI,289070,steam_dataset,mixed,45.2,D,36.7,25.117,8.15,25420.0
+7 Days to Die,251570,steam_dataset,mixed,50.4,C,36.5,24.7,12.75,17045.0
+Wo Long: Fallen Dynasty,1448440,steam_dataset,mixed,11.2,F,36.5,34.1,0.317,151.0
+Tom Clancy’s The Division™,365590,steam_dataset,mixed,35.4,D,35.1,24.417,6.1,774.0
+Gunfire Reborn,1217060,steam_dataset,mixed,34.9,F,34.9,24.867,6.217,1428.0
+Shapez 1,,factory_reviews,high,13.3,F,34.9,25.573,1.481,329.0
+Call of Duty®: Black Ops III,311210,steam_dataset,mixed,29.1,F,34.7,24.433,3.0,5414.0
+Transport Fever 2,1066780,steam_dataset,mixed,39.9,D,34.6,23.883,7.4,3465.0
+Call to Arms - Gates of Hell: Ostfront,400750,steam_dataset,mixed,45.1,D,34.5,23.533,12.433,2216.0
+FINAL FANTASY XVI,2515020,steam_dataset,mixed,49.8,D,34.4,29.733,21.3,737.0
+FINAL FANTASY VII REBIRTH,2909400,steam_dataset,mixed,23.5,F,34.2,26.033,2.117,1818.0
+V Rising,1604030,steam_dataset,mixed,44.0,D,34.1,24.983,10.017,10961.0
+Dragon's Dogma 2,2054970,steam_dataset,mixed,28.2,F,34.0,29.267,3.833,768.0
+F1® 24,2488620,steam_dataset,mixed,14.2,F,34.0,24.55,0.533,2067.0
+Clair Obscur: Expedition 33,1903340,steam_dataset,mixed,45.5,D,33.9,29.383,9.683,27880.0
+Tom Clancy's Ghost Recon® Wildlands,460930,steam_dataset,mixed,33.4,F,33.9,23.8,5.8,1441.0
+The Scroll Of Taiwu,838350,steam_dataset,mixed,34.2,F,33.8,23.517,5.883,989.0
+Nioh 2 – The Complete Edition,1325200,steam_dataset,mixed,35.0,D,33.6,23.283,6.333,1441.0
+ASTLIBRA Revision,1718570,steam_dataset,mixed,47.2,D,33.3,28.233,18.067,742.0
+Dead by Daylight,381210,steam_dataset,mixed,47.3,D,33.2,22.567,9.533,44886.0
+Amazing Cultivation Simulator,955900,steam_dataset,mixed,25.0,F,33.1,23.433,2.85,598.0
+ATLAS,834910,steam_dataset,mixed,13.7,F,33.1,24.017,0.45,468.0
+Conan Exiles,440900,steam_dataset,mixed,37.6,D,33.1,22.9,5.833,5677.0
+Sid Meier's Civilization VII,1295660,steam_dataset,mixed,43.2,D,33.1,22.6,10.517,5931.0
+DARK SOULS™: REMASTERED,570940,steam_dataset,mixed,34.5,F,33.0,26.917,5.633,2879.0
+Legend of Mortal,1859910,steam_dataset,mixed,14.9,F,33.0,28.05,1.05,296.0
+Sekiro™: Shadows Die Twice - GOTY Edition,814380,steam_dataset,mixed,28.9,F,33.0,25.733,3.117,6767.0
+WARNO,1611600,steam_dataset,mixed,37.9,D,33.0,22.7,8.85,873.0
+"Warhammer 40,000: Rogue Trader",2186680,steam_dataset,mixed,44.5,D,32.7,22.233,12.317,3582.0
+Persona 4 Golden,1113000,steam_dataset,mixed,49.7,D,32.6,23.117,22.9,962.0
+Fallout: New Vegas,22380,steam_dataset,mixed,42.6,D,32.5,22.183,10.317,3892.0
+Bloons TD 6,960090,steam_dataset,mixed,31.8,F,32.4,22.583,4.067,7489.0
+Hogwarts Legacy,990080,steam_dataset,mixed,36.4,D,32.0,26.867,6.317,5716.0
+ICARUS,1149460,steam_dataset,mixed,30.2,F,31.8,22.25,4.567,1492.0
+REMNANT II®,1282100,steam_dataset,mixed,30.4,F,31.8,25.3,4.567,1573.0
+S.T.A.L.K.E.R. 2: Heart of Chornobyl,1643320,steam_dataset,mixed,34.4,F,31.8,23.6,6.167,2403.0
+The Elder Scrolls V: Skyrim Special Edition,489830,steam_dataset,mixed,49.3,D,31.8,21.5,13.533,25085.0
+Elite Dangerous,359320,steam_dataset,mixed,47.5,D,31.7,21.517,13.6,4845.0
+Arma Reforger,1874880,steam_dataset,mixed,47.7,D,31.5,21.333,13.517,11466.0
+Sephiria,2436940,steam_dataset,mixed,33.2,F,31.5,26.383,5.55,2268.0
+WUCHANG: Fallen Feathers,2277560,steam_dataset,mixed,31.1,F,31.3,29.217,6.383,0.0
+Company of Heroes 3,1677280,steam_dataset,mixed,40.2,D,31.1,21.383,9.15,2183.0
+Forza Horizon 5,1551360,steam_dataset,mixed,30.5,F,31.1,21.717,3.683,10009.0
+Garry's Mod,4000,steam_dataset,mixed,45.1,D,31.1,21.217,9.5,18400.0
+Kingdom Come: Deliverance,379430,steam_dataset,mixed,34.7,F,31.1,21.483,6.667,2520.0
+Tales of Arise,740130,steam_dataset,mixed,35.8,D,31.1,26.267,9.467,182.0
+XCOM® 2,268500,steam_dataset,mixed,45.1,D,31.1,21.117,13.7,3123.0
+Library Of Ruina,1256670,steam_dataset,mixed,46.6,D,30.9,20.917,17.5,1299.0
+No Man's Sky,275850,steam_dataset,mixed,46.5,D,30.5,20.65,13.5,12291.0
+Resident Evil 4,2050650,steam_dataset,mixed,34.3,F,30.4,23.817,5.983,3748.0
+Undisputed,1451190,steam_dataset,mixed,27.5,F,30.2,21.233,4.45,503.0
+X-Plane 11,269950,steam_dataset,mixed,14.8,F,30.2,21.817,0.85,381.0
+Darkest Dungeon® II,1940340,steam_dataset,mixed,36.8,D,30.1,20.717,9.133,1054.0
+Stormworks: Build and Rescue,573090,steam_dataset,mixed,42.8,D,30.1,20.583,11.167,1488.0
+Wolcen: Lords of Mayhem,424370,steam_dataset,mixed,37.8,D,30.1,24.717,12.183,30.0
+Cities: Skylines II,949230,steam_dataset,mixed,42.4,D,29.9,20.417,10.85,5392.0
+Ghost of Tsushima DIRECTOR'S CUT,2215430,steam_dataset,mixed,39.3,D,29.5,24.767,9.7,2025.0
+Sea of Thieves: 2025 Edition,1172620,steam_dataset,mixed,35.1,D,29.3,20.25,6.267,5437.0
+Balatro,2379780,steam_dataset,mixed,32.2,F,29.0,20.433,4.567,17123.0
+Dota 2,570,steam_dataset,mixed,59.1,C,29.0,19.25,23.783,623941.0
+The Planet Crafter,1284190,steam_dataset,mixed,47.4,D,29.0,22.883,16.317,7330.0
+Hades II,1145350,steam_dataset,mixed,36.7,D,28.9,22.0,8.5,1838.0
+Soulmask,2646460,steam_dataset,mixed,33.3,F,28.9,20.067,5.667,2760.0
+Enshrouded,1203620,steam_dataset,mixed,44.2,D,28.7,21.0,12.517,10654.0
+Grim Dawn,219990,steam_dataset,mixed,37.0,D,28.6,19.683,8.067,2376.0
+Risk of Rain 2,632360,steam_dataset,mixed,40.5,D,28.6,19.6,9.083,7902.0
+觅长生,1189490,steam_dataset,mixed,18.6,F,28.6,20.367,1.683,1524.0
+Avorion,445220,steam_dataset,mixed,53.4,C,28.4,18.95,45.833,618.0
+Farm Together,673950,steam_dataset,mixed,7.9,F,28.3,20.7,0.0,311.0
+Assassin's Creed® Origins,582160,steam_dataset,mixed,35.4,D,28.2,22.1,7.95,1604.0
+The Last of Us™ Part II Remastered,2531310,steam_dataset,mixed,31.1,F,28.2,25.983,4.417,4405.0
+暖雪 Warm Snow,1296830,steam_dataset,mixed,25.4,F,28.1,23.833,3.967,516.0
+Borderlands 3,397540,steam_dataset,mixed,23.5,F,28.0,20.65,2.717,3164.0
+Far Cry® 5,552520,steam_dataset,mixed,28.3,F,27.9,22.85,4.6,1297.0
+METAL GEAR SOLID V: THE PHANTOM PAIN,287700,steam_dataset,mixed,38.3,D,27.7,18.967,10.467,1333.0
+F1® 22,1692250,steam_dataset,mixed,13.9,F,27.6,21.783,1.45,234.0
+Nioh: Complete Edition,485510,steam_dataset,mixed,24.7,F,27.5,19.317,4.417,291.0
+STAR WARS Jedi: Survivor™,1774580,steam_dataset,mixed,23.0,F,27.5,25.317,2.383,2353.0
+Rusty's Retirement,2666510,steam_dataset,mixed,20.4,F,27.4,19.433,2.417,1185.0
+Starbound,211820,steam_dataset,mixed,34.6,F,27.3,18.817,8.117,894.0
+Battlefield™ 2042,1517290,steam_dataset,mixed,29.1,F,27.1,18.9,4.617,2774.0
+Danganronpa 2: Goodbye Despair,413420,steam_dataset,mixed,37.7,D,27.1,24.55,11.6,198.0
+SnowRunner,1465360,steam_dataset,mixed,41.4,D,27.1,18.467,11.783,3132.0
+Sun Haven,1432860,steam_dataset,mixed,23.7,F,27.1,20.583,3.6,653.0
+Battlefield™ 6,2807960,steam_dataset,mixed,31.7,F,26.8,18.567,9.167,0.0
+GoreBox,2027330,steam_dataset,mixed,25.6,F,26.7,25.417,3.8,509.0
+Lies of P,1627720,steam_dataset,mixed,24.0,F,26.7,23.067,3.15,1363.0
+Age of Wonders 4,1669000,steam_dataset,mixed,41.4,D,26.6,18.117,13.2,1707.0
+DRAGON BALL XENOVERSE 2,454650,steam_dataset,mixed,19.2,F,26.4,18.75,2.433,652.0
+Vampire Survivors,1794680,steam_dataset,mixed,26.8,F,26.4,20.633,3.933,2966.0
+Magicraft,2103140,steam_dataset,mixed,30.7,F,26.3,21.583,6.567,600.0
+Solasta: Crown of the Magister,1096530,steam_dataset,mixed,39.4,D,26.3,19.417,14.283,396.0
+Stellar Blade™,3489700,steam_dataset,mixed,18.5,F,26.3,23.733,2.65,0.0
+Street Fighter™ 6,1364780,steam_dataset,mixed,39.6,D,26.3,18.017,8.3,14920.0
+Abiotic Factor,427410,steam_dataset,mixed,33.2,F,26.1,19.433,7.483,1458.0
+XCOM: Enemy Unknown,200510,steam_dataset,mixed,34.3,F,26.0,17.917,9.333,590.0
+Soulstone Survivors,2066020,steam_dataset,mixed,30.9,F,25.6,20.567,6.867,674.0
+DRAGON QUEST® XI S: Echoes of an Elusive Age™ - Definitive Edition,1295510,steam_dataset,mixed,22.7,F,25.5,19.167,3.4,936.0
+FINAL FANTASY VII REMAKE INTERGRADE,1462040,steam_dataset,mixed,38.4,D,25.5,21.583,11.533,761.0
+Marvel’s Spider-Man Remastered,1817070,steam_dataset,mixed,38.0,D,25.5,22.433,10.283,1190.0
+DSX,1812620,steam_dataset,mixed,41.0,D,25.4,17.367,10.517,5121.0
+Everlusting Life,3218710,steam_dataset,mixed,11.1,F,25.4,26.317,0.0,1838.0
+Age of History II,603850,steam_dataset,mixed,6.3,F,25.3,19.167,0.0,513.0
+Rune Factory: Guardians of Azuma,2864560,steam_dataset,mixed,22.9,F,25.3,26.2,1.933,5831.0
+The First Berserker: Khazan,2680010,steam_dataset,mixed,27.4,F,25.2,21.367,4.633,1253.0
+Blue Prince,1569580,steam_dataset,mixed,42.9,D,25.1,18.75,14.5,4395.0
+Coral Island,1158160,steam_dataset,mixed,37.7,D,25.1,17.2,11.0,1328.0
+Dying Light,239140,steam_dataset,mixed,28.5,F,25.1,18.817,4.583,4953.0
+Marvel's Spider-Man 2,2651280,steam_dataset,mixed,33.9,F,24.8,22.95,7.25,1348.0
+God of War,1593500,steam_dataset,mixed,30.0,F,24.6,21.883,5.533,1380.0
+Le Mans Ultimate,2399420,steam_dataset,mixed,32.2,F,24.6,17.05,7.367,984.0
+Age of Empires IV: Anniversary Edition,1466860,steam_dataset,mixed,39.9,D,24.5,16.733,10.117,7084.0
+Mechabellum,669330,steam_dataset,mixed,46.0,D,24.4,16.45,20.767,1748.0
+The Elder Scrolls® Online,306130,steam_dataset,mixed,50.4,C,24.4,16.333,19.633,15987.0
+PowerWash Simulator,1290000,steam_dataset,mixed,28.2,F,24.3,16.883,5.233,2547.0
+Granblue Fantasy Versus: Rising,2157560,steam_dataset,mixed,9.9,F,24.2,18.067,0.65,1736.0
+Hades,1145360,steam_dataset,mixed,28.4,F,24.1,17.95,5.3,2253.0
+Foundation,690830,steam_dataset,mixed,27.3,F,23.9,17.483,5.617,844.0
+Path Of Wuxia,1189630,steam_dataset,mixed,22.9,F,23.9,16.85,4.733,69.0
+Total War: EMPIRE – Definitive Edition,10500,steam_dataset,mixed,27.1,F,23.9,16.7,4.4,2028.0
+MechWarrior 5: Mercenaries,784080,steam_dataset,mixed,41.5,D,23.8,16.167,16.583,636.0
+Hunt: Showdown 1896,594650,steam_dataset,mixed,44.8,D,23.7,16.033,14.283,6300.0
+Bellwright,1812450,steam_dataset,mixed,40.7,D,23.6,16.05,15.183,1252.0
+Borderlands 2,49520,steam_dataset,mixed,20.1,F,23.6,16.7,1.933,8551.0
+KINGDOM HEARTS -HD 1.5+2.5 ReMIX-,2552430,steam_dataset,mixed,40.1,D,23.6,16.033,15.167,886.0
+Middle-earth™: Shadow of War™,356190,steam_dataset,mixed,28.6,F,23.6,17.983,5.833,1405.0
+Total War: WARHAMMER,364360,steam_dataset,mixed,32.4,F,23.6,16.3,9.167,297.0
+Assassin's Creed® Syndicate,368500,steam_dataset,mixed,7.4,F,23.5,21.217,0.633,173.0
+Men of War: Assault Squad 2,244450,steam_dataset,mixed,24.9,F,23.5,16.5,4.217,711.0
+F1® 25,3059520,steam_dataset,mixed,34.4,F,23.4,16.333,8.183,5272.0
+Dying Light: The Beast,3008130,steam_dataset,mixed,28.0,F,23.3,21.417,6.583,0.0
+Far Cry® 4,298110,steam_dataset,mixed,27.8,F,23.3,17.0,6.333,558.0
+Space Engineers,244850,steam_dataset,mixed,42.7,D,23.1,15.65,13.65,4201.0
+Brotato,1942280,steam_dataset,mixed,27.5,F,23.0,16.033,4.483,6389.0
+Core Keeper,1621690,steam_dataset,mixed,33.9,F,23.0,15.833,8.4,3688.0
+NieR Replicant™ ver.1.22474487139...,1113560,steam_dataset,mixed,34.4,F,22.9,19.95,10.683,207.0
+ARK: Survival Evolved,346110,steam_dataset,mixed,47.8,D,22.8,15.35,15.667,22170.0
+Arma 3,107410,steam_dataset,mixed,38.9,D,22.7,15.533,8.983,7181.0
+Apex Legends™,1172470,steam_dataset,mixed,43.4,D,22.6,15.267,10.25,124262.0
+Marvel's Midnight Suns,368260,steam_dataset,mixed,5.2,F,22.6,16.467,0.217,436.0
+Phasmophobia,739630,steam_dataset,mixed,25.5,F,22.6,15.767,3.7,9978.0
+Medieval Dynasty,1129580,steam_dataset,mixed,31.8,F,22.5,15.55,7.917,1366.0
+Schedule I,3164500,steam_dataset,mixed,30.7,F,22.4,18.733,4.667,22757.0
+DRAGON BALL Z: KAKAROT,851850,steam_dataset,mixed,19.3,F,22.2,18.017,3.383,264.0
+SCUM,513710,steam_dataset,mixed,49.8,D,22.1,14.8,22.917,8535.0
+Cauldron,2619650,steam_dataset,mixed,51.5,C,22.0,20.917,31.533,1682.0
+Squad,393380,steam_dataset,mixed,39.8,D,22.0,15.033,10.267,9116.0
+Escape From Duckov,3167020,steam_dataset,mixed,24.2,F,21.9,17.6,5.817,0.0
+Subnautica: Below Zero,848450,steam_dataset,mixed,22.0,F,21.9,19.183,3.5,698.0
+"Warhammer 40,000: Space Marine 2",2183900,steam_dataset,mixed,32.4,F,21.9,15.117,7.067,6851.0
+The Elder Scrolls IV: Oblivion Remastered,2623190,steam_dataset,mixed,33.0,F,21.8,17.067,6.45,14420.0
+The Slormancer,1104280,steam_dataset,mixed,6.5,F,21.8,16.8,0.0,2052.0
+Raft,648800,steam_dataset,mixed,32.8,F,21.7,16.05,7.733,4701.0
+Subnautica,264710,steam_dataset,mixed,28.2,F,21.5,15.15,5.95,2719.0
+The Sims™ 3,47890,steam_dataset,mixed,30.2,F,21.4,14.867,6.583,1264.0
+The Witcher 3: Wild Hunt,292030,steam_dataset,mixed,39.6,D,21.4,14.583,10.35,15893.0
+Timberborn,1062090,steam_dataset,mixed,32.5,F,21.4,14.733,7.283,3884.0
+ARMORED CORE™ VI FIRES OF RUBICON™,1888160,steam_dataset,mixed,22.5,F,21.3,17.883,3.75,1011.0
+CarX Drift Racing Online,635260,steam_dataset,mixed,13.7,F,21.3,15.267,1.267,1658.0
+Dead Cells,588650,steam_dataset,mixed,24.5,F,21.2,14.8,4.417,2559.0
+Oxygen Not Included,457140,steam_dataset,mixed,45.2,D,21.2,14.317,16.617,7545.0
+Deep Rock Galactic,548430,steam_dataset,mixed,31.0,F,21.1,14.567,6.117,5216.0
+Grounded,962130,steam_dataset,mixed,29.2,F,21.1,14.633,6.367,2394.0
+My Summer Car,516750,steam_dataset,mixed,31.4,F,21.1,14.533,8.133,1044.0
+Days Gone,1259420,steam_dataset,mixed,23.5,F,20.9,16.6,4.1,1600.0
+DELTARUNE,1671210,steam_dataset,mixed,22.2,F,20.8,19.333,1.817,83936.0
+Backpack Battles,2427700,steam_dataset,mixed,27.7,F,20.7,14.367,5.933,1806.0
+DAVE THE DIVER,1868140,steam_dataset,mixed,27.1,F,20.7,16.55,5.017,3367.0
+Lost Castle 2,2445690,steam_dataset,mixed,20.7,F,20.6,15.483,3.617,1121.0
+My Time at Sandrock,1084600,steam_dataset,mixed,45.3,D,20.6,13.883,21.633,1501.0
+Pathfinder: Kingmaker — Enhanced Plus Edition,640820,steam_dataset,mixed,38.8,D,20.6,14.017,14.65,590.0
+Planet Coaster 2,2688950,steam_dataset,mixed,18.0,F,20.6,14.817,2.817,1213.0
+Rocksmith® 2014 Edition REMASTERED LEARN & PLAY,221680,steam_dataset,mixed,13.3,F,20.6,14.767,1.483,683.0
+Hollow Knight,367520,steam_dataset,mixed,24.6,F,20.5,14.333,4.067,4912.0
+Cities: Skylines,255710,steam_dataset,mixed,31.3,F,20.4,14.133,5.767,8842.0
+Tainted Grail: The Fall of Avalon,1466060,steam_dataset,mixed,36.9,D,20.4,16.65,9.583,8175.0
+Age of Empires II: Definitive Edition,813780,steam_dataset,mixed,40.7,D,20.3,13.767,11.183,13465.0
+Monster Train 2,2742830,steam_dataset,mixed,10.0,F,20.2,15.283,0.7,6617.0
+Deadside,895400,steam_dataset,mixed,28.2,F,20.1,13.967,6.8,698.0
+ASTRONEER,361420,steam_dataset,mixed,27.9,F,20.0,13.85,6.483,988.0
+Project Zomboid,108600,steam_dataset,mixed,41.6,D,19.9,13.467,11.35,22864.0
+X4: Foundations,392160,steam_dataset,mixed,36.5,D,19.9,13.65,9.483,2141.0
+Car Mechanic Simulator 2021,1190000,steam_dataset,mixed,20.9,F,19.8,13.933,3.467,1343.0
+Gray Zone Warfare,2479810,steam_dataset,mixed,39.9,D,19.8,13.417,12.2,7543.0
+American Truck Simulator,270880,steam_dataset,mixed,32.0,F,19.7,13.6,6.233,6742.0
+GUILTY GEAR -STRIVE-,1384160,steam_dataset,mixed,23.3,F,19.7,13.8,3.6,2463.0
+Far Cry® 6,2369390,steam_dataset,mixed,21.1,F,19.6,15.95,3.967,627.0
+Legion TD 2 - Multiplayer Tower Defense,469600,steam_dataset,mixed,31.3,F,19.6,13.567,7.483,687.0
+Megabonk,3405340,steam_dataset,mixed,22.8,F,19.6,15.733,5.75,0.0
+Automation - The Car Company Tycoon Game,293760,steam_dataset,mixed,14.2,F,19.5,13.9,1.867,554.0
+REMATCH,2138720,steam_dataset,mixed,17.4,F,19.5,14.667,3.85,0.0
+Anno 1800,916440,steam_dataset,mixed,29.0,F,19.4,13.467,6.033,2784.0
+DRAGON BALL: Sparking! ZERO,1790600,steam_dataset,mixed,17.6,F,19.4,15.65,2.767,949.0
+MORDHAU,629760,steam_dataset,mixed,21.1,F,19.4,13.65,3.567,764.0
+Forager,751780,steam_dataset,mixed,18.6,F,19.3,16.533,3.533,235.0
+Dinkum,1062520,steam_dataset,mixed,30.4,F,19.2,13.25,7.267,2422.0
+The Texas Chain Saw Massacre,1433140,steam_dataset,mixed,19.0,F,19.1,13.5,3.433,336.0
+Cash Cleaner Simulator,2488370,steam_dataset,mixed,40.9,D,19.0,14.483,16.55,2538.0
+Kenshi,233860,steam_dataset,mixed,43.0,D,19.0,12.85,14.9,5412.0
+Mortal Kombat 1,1971870,steam_dataset,mixed,16.3,F,19.0,13.517,2.317,1149.0
+Remnant: From the Ashes,617290,steam_dataset,mixed,7.5,F,19.0,14.883,1.033,429.0
+Hurtworld,393420,steam_dataset,mixed,8.6,F,18.9,13.717,1.2,20.0
+Sultan's Game,3117820,steam_dataset,mixed,31.0,F,18.9,14.283,6.7,7726.0
+Hell Let Loose,686810,steam_dataset,mixed,25.9,F,18.8,13.117,4.233,3380.0
+Lost Ark,1599340,steam_dataset,mixed,53.9,C,18.7,12.433,30.767,17355.0
+Horizon Zero Dawn™ Complete Edition,1151640,steam_dataset,mixed,21.9,F,18.6,13.933,4.4,700.0
+The Forest,242760,steam_dataset,mixed,18.1,F,18.6,13.483,2.55,2892.0
+Legend of Heroes: Three Kingdoms,3020510,steam_dataset,mixed,42.1,D,18.5,12.517,17.65,2538.0
+Saints Row: The Third,55230,steam_dataset,mixed,9.8,F,18.5,14.45,1.683,163.0
+Sons Of The Forest,1326470,steam_dataset,mixed,29.1,F,18.5,15.017,6.2,4450.0
+Loop Hero,1282730,steam_dataset,mixed,37.5,D,18.4,15.167,16.133,348.0
+Pathfinder: Wrath of the Righteous - Enhanced Edition,1184370,steam_dataset,mixed,38.5,D,18.4,12.55,12.1,1874.0
+Rise of the Tomb Raider™,391220,steam_dataset,mixed,25.9,F,18.3,12.733,5.65,777.0
+Supermarket Simulator,2670630,steam_dataset,mixed,32.3,F,18.2,12.517,8.283,2464.0
+Mass Effect™ Legendary Edition,1328670,steam_dataset,mixed,51.6,C,18.1,11.983,56.583,2420.0
+Assassin’s Creed® Brotherhood,48190,steam_dataset,mixed,2.1,F,18.0,15.4,0.267,169.0
+Going Medieval,1029780,steam_dataset,mixed,4.3,F,18.0,13.133,0.0,713.0
+Insurgency: Sandstorm,581320,steam_dataset,mixed,16.1,F,18.0,12.767,2.083,1826.0
+Tom Clancy’s The Division® 2,2221490,steam_dataset,mixed,31.7,F,18.0,12.4,6.35,9481.0
+Call of Duty: World at War,10090,steam_dataset,mixed,9.7,F,17.9,12.867,1.2,433.0
+HUMANKIND™,1124300,steam_dataset,mixed,29.2,F,17.9,12.4,8.267,411.0
+TerraTech,285920,steam_dataset,mixed,3.9,F,17.9,12.95,0.617,261.0
+Call of Duty®,1938090,steam_dataset,mixed,45.7,D,17.8,11.95,14.017,67419.0
+House of Legacy,2503770,steam_dataset,mixed,29.6,F,17.8,12.3,7.167,1635.0
+The Outer Worlds,578650,steam_dataset,mixed,2.0,F,17.8,16.45,0.0,150.0
+Assassin's Creed Valhalla,2208920,steam_dataset,mixed,30.1,F,17.5,12.1,7.5,1379.0
+Farm Together 2,2418520,steam_dataset,mixed,4.3,F,17.5,15.583,0.0,1080.0
+Feed the Cups,2336220,steam_dataset,mixed,26.3,F,17.5,12.2,5.5,1161.0
+Foxhole,505460,steam_dataset,mixed,42.5,D,17.5,11.867,15.283,2821.0
+House Flipper 2,1190970,steam_dataset,mixed,24.3,F,17.5,13.667,4.533,2543.0
+Red Dead Online,1404210,steam_dataset,mixed,39.8,D,17.5,11.917,14.05,2207.0
+The Last of Us™ Part I,1888930,steam_dataset,mixed,18.4,F,17.5,16.283,2.25,4144.0
+AI LIMIT,2407270,steam_dataset,mixed,5.3,F,17.4,17.35,0.0,922.0
+Digimon Story Cyber Sleuth: Complete Edition,1042550,steam_dataset,mixed,49.2,D,17.4,11.617,35.0,968.0
+FINAL FANTASY X/X-2 HD Remaster,359870,steam_dataset,mixed,37.3,D,17.4,11.85,13.667,776.0
+Mafia II (Classic),50130,steam_dataset,mixed,2.2,F,17.4,14.267,0.35,207.0
+Resident Evil Village,1196590,steam_dataset,mixed,24.2,F,17.4,14.95,4.933,1284.0
+Wayfinder,1171690,steam_dataset,mixed,0.5,F,17.4,14.283,0.0,64.0
+NieR:Automata™,524220,steam_dataset,mixed,26.7,F,17.3,12.75,6.5,690.0
+Scrap Mechanic,387990,steam_dataset,mixed,17.9,F,17.3,12.25,2.633,909.0
+FOR HONOR™,304390,steam_dataset,mixed,42.4,D,17.2,11.667,16.75,2146.0
+Darkest Dungeon®,262060,steam_dataset,mixed,26.7,F,17.1,11.917,4.917,3848.0
+SILENT HILL 2,2124490,steam_dataset,mixed,31.2,F,17.1,15.483,9.317,514.0
+Motor Town: Behind The Wheel,1369670,steam_dataset,mixed,7.5,F,17.0,12.5,0.867,844.0
+Skul: The Hero Slayer,1147560,steam_dataset,mixed,21.7,F,17.0,11.917,3.817,1205.0
+Temtem,745920,steam_dataset,mixed,15.1,F,17.0,12.083,2.667,200.0
+Chillquarium,2276930,steam_dataset,mixed,5.2,F,16.8,12.233,0.017,1163.0
+Far Cry® New Dawn,939960,steam_dataset,mixed,4.9,F,16.8,15.017,0.8,215.0
+Lethal Company,1966720,steam_dataset,mixed,21.3,F,16.8,12.167,3.067,6199.0
+Yakuza 0,638970,steam_dataset,mixed,32.1,F,16.8,11.583,9.95,550.0
+Plants vs. Zombies GOTY Edition,3590,steam_dataset,mixed,22.3,F,16.7,11.683,3.733,2656.0
+Ravenswatch,2071280,steam_dataset,mixed,27.9,F,16.7,11.6,6.033,2578.0
+Five Nights at Freddy's: Security Breach,747660,steam_dataset,mixed,8.6,F,16.6,15.033,1.433,196.0
+Grand Theft Auto IV: The Complete Edition,12210,steam_dataset,mixed,26.0,F,16.6,11.583,5.283,2122.0
+Imperator: Rome,859580,steam_dataset,mixed,38.2,D,16.6,11.317,14.667,547.0
+Ready or Not,1144200,steam_dataset,mixed,20.0,F,16.6,12.183,2.883,4296.0
+South Park™: The Fractured But Whole™,488790,steam_dataset,mixed,11.7,F,16.6,14.717,1.967,250.0
+Stoneshard,625960,steam_dataset,mixed,46.9,D,16.6,11.15,27.567,744.0
+Car Dealer Simulator,2404880,steam_dataset,mixed,38.6,D,16.5,15.367,13.1,3296.0
+CODE VEIN,678960,steam_dataset,mixed,28.9,F,16.5,13.117,8.167,443.0
+Deadzone: Rogue,3228590,steam_dataset,mixed,20.3,F,16.5,14.483,3.533,1261.0
+Deep Rock Galactic: Survivor,2321470,steam_dataset,mixed,25.6,F,16.5,11.5,5.5,1300.0
+Farthest Frontier,1044720,steam_dataset,mixed,25.6,F,16.5,11.467,5.617,995.0
+Sniper Elite 5,1029690,steam_dataset,mixed,21.5,F,16.5,12.783,3.817,1538.0
+Split Fiction,2001120,steam_dataset,mixed,26.4,F,16.5,15.3,4.767,5476.0
+TCG Card Shop Simulator,3070070,steam_dataset,mixed,28.2,F,16.5,12.067,6.533,1661.0
+Halo: The Master Chief Collection,976730,steam_dataset,mixed,23.3,F,16.4,11.467,3.75,3362.0
+Senren＊Banka,1144400,steam_dataset,mixed,20.3,F,16.4,11.517,4.167,406.0
+Shadow of the Tomb Raider: Definitive Edition,750920,steam_dataset,mixed,23.3,F,16.4,13.167,5.067,582.0
+For The King,527230,steam_dataset,mixed,15.0,F,16.3,12.6,2.533,428.0
+FTL: Faster Than Light,212680,steam_dataset,mixed,22.4,F,16.3,11.417,3.95,1566.0
+My Time at Portia,666140,steam_dataset,mixed,5.2,F,16.3,11.8,0.333,593.0
+Far Cry 3,220240,steam_dataset,mixed,3.7,F,16.2,12.967,0.4,488.0
+Lords of the Fallen,1501750,steam_dataset,mixed,26.8,F,16.2,12.183,6.417,827.0
+RoadCraft,2104890,steam_dataset,mixed,35.7,D,16.2,11.083,9.317,8156.0
+FINAL FANTASY XV WINDOWS EDITION,637650,steam_dataset,mixed,2.6,F,16.1,11.733,0.183,339.0
+Monster Train,1102190,steam_dataset,mixed,15.8,F,16.1,11.867,2.6,595.0
+PAYDAY 3,1272080,steam_dataset,mixed,16.9,F,16.1,12.017,2.867,644.0
+Resident Evil 2,883710,steam_dataset,mixed,17.6,F,16.1,13.2,2.8,1123.0
+UNCHARTED™: Legacy of Thieves Collection,1659420,steam_dataset,mixed,24.9,F,16.1,14.533,5.933,467.0
+Dead Island 2,934700,steam_dataset,mixed,28.7,F,16.0,12.8,7.217,1023.0
+Graveyard Keeper,599140,steam_dataset,mixed,12.7,F,15.9,11.35,1.633,941.0
+The Isle,376210,steam_dataset,mixed,40.9,D,15.9,10.817,12.217,5946.0
+Halls of Torment,2218750,steam_dataset,mixed,17.2,F,15.8,12.317,3.217,361.0
+OMORI,1150690,steam_dataset,mixed,14.6,F,15.8,11.8,2.383,506.0
+Tower Dominion,3226530,steam_dataset,mixed,19.6,F,15.8,11.833,3.283,1427.0
+It Takes Two,1426210,steam_dataset,mixed,22.9,F,15.7,13.883,3.667,5018.0
+Banished,242920,steam_dataset,mixed,2.7,F,15.6,11.4,0.0,477.0
+Ravenfield,636480,steam_dataset,mixed,15.7,F,15.6,11.083,2.417,617.0
+The Riftbreaker,780310,steam_dataset,mixed,26.4,F,15.6,10.817,7.283,231.0
+Borderlands Game of the Year,8980,steam_dataset,mixed,1.3,F,15.5,11.333,0.0,142.0
+Watch_Dogs® 2,447040,steam_dataset,mixed,6.3,F,15.5,11.433,0.683,863.0
+DOOM Eternal,782330,steam_dataset,mixed,20.4,F,15.4,11.75,3.283,2262.0
+Fields of Mistria,2142790,steam_dataset,mixed,6.8,F,15.4,11.133,0.617,1616.0
+Mafia III: Definitive Edition,360430,steam_dataset,mixed,41.7,D,15.4,10.417,20.217,869.0
+The Spell Brigade,2904000,steam_dataset,mixed,27.4,F,15.4,12.067,5.583,3580.0
+DEATH STRANDING DIRECTOR'S CUT,1850570,steam_dataset,mixed,20.2,F,15.3,10.8,3.2,1604.0
+Mad Max,234140,steam_dataset,mixed,8.8,F,15.3,11.65,1.167,563.0
+Age of Empires II (Retired),221380,steam_dataset,mixed,32.3,F,15.2,10.45,7.8,2278.0
+Beat Saber,620980,steam_dataset,mixed,12.5,F,15.2,10.85,1.85,423.0
+Among Us,945360,steam_dataset,mixed,15.7,F,15.1,10.75,1.883,3832.0
+Bloodstained: Ritual of the Night,692850,steam_dataset,mixed,4.4,F,15.1,13.117,0.767,158.0
+Saints Row IV: Re-Elected,206420,steam_dataset,mixed,22.8,F,15.1,11.683,5.75,117.0
+Age of Mythology: Retold,1934680,steam_dataset,mixed,32.4,F,15.0,10.3,9.033,1559.0
+BattleBit Remastered,671860,steam_dataset,mixed,23.1,F,15.0,10.467,5.0,568.0
+Crime Scene Cleaner,1040200,steam_dataset,mixed,22.9,F,14.9,13.567,4.9,596.0
+DOOM: The Dark Ages,3017860,steam_dataset,mixed,28.2,F,14.9,13.517,5.933,3518.0
+Volcano Princess,1669980,steam_dataset,mixed,37.3,D,14.9,10.117,15.05,553.0
+Middle-earth™: Shadow of Mordor™,241930,steam_dataset,mixed,14.9,F,14.8,12.317,2.5,441.0
+The Walking Dead: The Telltale Definitive Series,1449690,steam_dataset,mixed,23.3,F,14.8,10.55,5.0,677.0
+"Warhammer® 40,000: Dawn of War® - Soulstorm",9450,steam_dataset,mixed,8.6,F,14.8,10.633,0.9,673.0
+Paladins®,444090,steam_dataset,mixed,51.0,C,14.7,9.733,64.517,1028.0
+Romance of the Three Kingdoms XI with Power Up Kit,628070,steam_dataset,mixed,5.4,F,14.7,10.667,0.1,1130.0
+BeamNG.drive,284160,steam_dataset,mixed,31.0,F,14.6,10.117,5.217,15863.0
+Killing Floor 2,232090,steam_dataset,mixed,49.3,D,14.6,9.767,24.183,4508.0
+Total War: MEDIEVAL II – Definitive Edition,4700,steam_dataset,mixed,39.5,D,14.6,9.95,12.483,2814.0
+Jurassic World Evolution,648350,steam_dataset,mixed,1.6,F,14.5,10.75,0.0,260.0
+Kerbal Space Program 2,954850,steam_dataset,mixed,0.5,F,14.5,13.033,0.0,62.0
+Need for Speed™ Unbound,1846380,steam_dataset,mixed,19.7,F,14.5,10.2,3.717,618.0
+Batman™: Arkham Knight,208650,steam_dataset,mixed,15.8,F,14.4,10.25,2.217,1587.0
+Call of Duty®: Black Ops Cold War,1985810,steam_dataset,mixed,8.1,F,14.4,10.383,1.017,644.0
+Tiny Tina's Wonderlands,1286680,steam_dataset,mixed,7.3,F,14.4,11.817,0.817,866.0
+Torchlight II,200710,steam_dataset,mixed,2.6,F,14.4,10.45,0.35,268.0
+Danganronpa: Trigger Happy Havoc,413410,steam_dataset,mixed,36.8,D,14.3,11.35,16.6,173.0
+Leaf Blower Revolution - Idle Game,1468260,steam_dataset,mixed,52.7,C,14.3,9.45,69.367,1621.0
+Inscryption,1092790,steam_dataset,mixed,23.9,F,14.2,10.7,4.8,1301.0
+Laundry Store Simulator,3150440,steam_dataset,mixed,11.4,F,14.2,10.183,1.4,1256.0
+LEGO® Marvel™ Super Heroes,249130,steam_dataset,mixed,15.1,F,14.2,10.117,2.567,298.0
+Slime Rancher,433340,steam_dataset,mixed,28.2,F,14.2,9.833,7.117,858.0
+South Park™: The Stick of Truth™,213670,steam_dataset,mixed,20.1,F,14.2,12.567,4.317,274.0
+Total War: ROME REMASTERED,885970,steam_dataset,mixed,16.0,F,14.2,10.05,2.55,764.0
+BATTLETECH,637090,steam_dataset,mixed,17.0,F,14.1,10.017,2.067,1446.0
+Chinese Parents,736190,steam_dataset,mixed,9.7,F,14.1,11.25,1.517,287.0
+Cult of the Lamb,1313140,steam_dataset,mixed,25.6,F,14.1,11.6,5.4,1535.0
+LEGO® Star Wars™: The Skywalker Saga,920210,steam_dataset,mixed,12.7,F,14.1,10.067,1.833,719.0
+The Outlast Trials,1304930,steam_dataset,mixed,32.2,F,14.1,9.667,7.917,3743.0
+Tom Clancy's Ghost Recon® Breakpoint,2231380,steam_dataset,mixed,22.1,F,14.1,10.05,4.083,1430.0
+Wobbly Life,1211020,steam_dataset,mixed,24.3,F,14.1,9.867,5.3,625.0
+Assassin's Creed® Unity,289650,steam_dataset,mixed,17.9,F,14.0,10.317,3.417,373.0
+Clicker Heroes,363970,steam_dataset,mixed,51.9,C,13.9,9.25,41.833,2019.0
+Fallout 76,1151340,steam_dataset,mixed,34.4,F,13.9,9.583,7.3,8796.0
+Nine Sols,1809540,steam_dataset,mixed,22.3,F,13.9,11.833,4.633,625.0
+Peglin,1296610,steam_dataset,mixed,22.5,F,13.9,10.067,4.783,574.0
+Battlefield™ V,1238810,steam_dataset,mixed,27.4,F,13.7,9.5,4.9,6327.0
+PAYDAY 2,218620,steam_dataset,mixed,54.1,C,13.7,9.1,28.917,27254.0
+Total War: NAPOLEON – Definitive Edition,34030,steam_dataset,mixed,19.1,F,13.7,9.667,2.983,929.0
+Warframe,230410,steam_dataset,mixed,53.5,C,13.6,9.083,25.633,36195.0
+Supreme Commander: Forged Alliance,9420,steam_dataset,mixed,39.8,D,13.5,9.2,15.917,691.0
+CarX Street,1114150,steam_dataset,mixed,20.1,F,13.4,9.55,3.983,499.0
+Drive Beyond Horizons,2625420,steam_dataset,mixed,26.8,F,13.4,10.767,5.333,3366.0
+Marvel’s Spider-Man: Miles Morales,1817190,steam_dataset,mixed,16.1,F,13.4,12.15,2.883,377.0
+Roboquest,692890,steam_dataset,mixed,4.7,F,13.4,11.067,0.617,429.0
+Two Point Museum,2185060,steam_dataset,mixed,26.9,F,13.4,10.233,6.4,927.0
+Destiny 2,1085660,steam_dataset,mixed,52.4,C,13.3,8.85,24.483,24619.0
+People Playground,1118200,steam_dataset,mixed,18.5,F,13.3,9.383,2.217,4505.0
+PlateUp!,1599600,steam_dataset,mixed,23.6,F,13.3,9.317,4.95,832.0
+R.E.P.O.,3241660,steam_dataset,mixed,26.2,F,13.3,10.25,3.783,32349.0
+State of Decay 2: Juggernaut Edition,495420,steam_dataset,mixed,18.4,F,13.3,9.383,2.9,1281.0
+Kingdom Two Crowns,701160,steam_dataset,mixed,27.1,F,13.2,9.583,6.217,1305.0
+Northgard: Definitive Edition,466560,steam_dataset,mixed,28.5,F,13.2,9.15,6.683,1164.0
+Shakes and Fidget,438040,steam_dataset,mixed,42.3,D,13.2,8.967,16.2,1389.0
+BlazBlue Entropy Effect,2273430,steam_dataset,mixed,14.0,F,13.1,10.75,1.95,1099.0
+Borderlands: The Pre-Sequel,261640,steam_dataset,mixed,9.6,F,13.1,9.433,1.383,437.0
+Victoria II,42960,steam_dataset,mixed,4.8,F,13.1,9.533,0.15,490.0
+World War Z,699130,steam_dataset,mixed,35.4,D,13.1,8.983,11.183,1663.0
+Back 4 Blood,924970,steam_dataset,mixed,26.0,F,13.0,9.05,5.55,1288.0
+Barotrauma,602960,steam_dataset,mixed,44.8,D,13.0,8.767,21.017,2371.0
+Call of Duty®: Black Ops,42700,steam_dataset,mixed,8.0,F,13.0,9.35,1.05,527.0
+Gujian3(古剑奇谭三),994280,steam_dataset,mixed,0.8,F,13.0,9.5,0.0,103.0
+Left 4 Dead 2,550,steam_dataset,mixed,29.8,F,13.0,9.0,4.933,25122.0
+Phoenix Wright: Ace Attorney Trilogy,787480,steam_dataset,mixed,14.9,F,12.9,9.183,2.267,826.0
+STAR WARS Jedi: Fallen Order™,1172380,steam_dataset,mixed,24.1,F,12.9,10.717,4.867,1354.0
+Wolfenstein: The New Order,201810,steam_dataset,mixed,18.4,F,12.9,11.217,3.5,417.0
+Dishonored 2,403640,steam_dataset,mixed,21.9,F,12.8,9.383,4.933,308.0
+Fall Guys,1097150,steam_dataset,mixed,10.1,F,12.8,9.217,1.35,664.0
+TEKKEN 7,389730,steam_dataset,mixed,11.4,F,12.8,9.183,1.35,599.0
+Assassin's Creed 2,33230,steam_dataset,mixed,27.1,F,12.7,8.967,7.883,188.0
+Car Mechanic Simulator 2018,645630,steam_dataset,mixed,6.6,F,12.7,9.133,1.067,202.0
+Detroit: Become Human,1222140,steam_dataset,mixed,23.3,F,12.7,11.6,4.2,2344.0
+Far Cry® Primal,371660,steam_dataset,mixed,19.8,F,12.7,9.65,4.283,235.0
+Frostpunk,323190,steam_dataset,mixed,30.1,F,12.7,8.8,7.6,1699.0
+House Flipper,613100,steam_dataset,mixed,22.6,F,12.7,8.9,4.3,1311.0
+Path of Exile,238960,steam_dataset,mixed,52.0,C,12.7,8.45,29.633,4694.0
+WEBFISHING,3146520,steam_dataset,mixed,23.3,F,12.7,8.85,4.967,686.0
+Workers & Resources: Soviet Republic,784150,steam_dataset,mixed,41.1,D,12.7,8.633,14.5,2590.0
+Dead Space,1693980,steam_dataset,mixed,10.8,F,12.6,11.433,1.717,313.0
+Ori and the Will of the Wisps,1057090,steam_dataset,mixed,9.0,F,12.6,11.1,1.15,697.0
+Red Dead Redemption,2668510,steam_dataset,mixed,23.0,F,12.6,9.4,5.067,504.0
+Tabletop Simulator,286160,steam_dataset,mixed,29.1,F,12.6,8.75,5.683,5021.0
+Dragon Age: Origins - Ultimate Edition,47810,steam_dataset,mixed,35.8,D,12.5,8.567,13.55,394.0
+Wargame: Red Dragon,251060,steam_dataset,mixed,16.5,F,12.5,8.867,2.533,434.0
+Don't Starve Together,322330,steam_dataset,mixed,35.1,D,12.4,8.517,7.133,30542.0
+Green Hell,815370,steam_dataset,mixed,23.7,F,12.4,8.667,4.567,1656.0
+Kerbal Space Program,220200,steam_dataset,mixed,29.5,F,12.4,8.617,6.317,1844.0
+Call of Duty®: Modern Warfare®,2000950,steam_dataset,mixed,28.6,F,12.3,9.0,7.35,847.0
+Hydroneer,1106840,steam_dataset,mixed,20.8,F,12.3,9.117,4.383,374.0
+NARAKA: BLADEPOINT,1203220,steam_dataset,mixed,44.5,D,12.3,8.267,12.5,66954.0
+Resident Evil 6,221040,steam_dataset,mixed,20.5,F,12.3,9.25,4.1,515.0
+Batman™: Arkham Origins,209000,steam_dataset,mixed,22.6,F,12.2,9.75,4.75,616.0
+Divinity: Original Sin - Enhanced Edition,373420,steam_dataset,mixed,13.8,F,12.2,8.7,2.2,387.0
+Marvel Rivals,2767030,steam_dataset,mixed,39.2,D,12.2,8.3,9.233,106611.0
+STAR WARS™ Battlefront™ II,1237950,steam_dataset,mixed,26.9,F,12.2,8.45,4.717,9213.0
+Just Cause 4 Reloaded,517630,steam_dataset,mixed,25.1,F,12.1,8.433,6.6,232.0
+Max Payne 3,204100,steam_dataset,mixed,6.3,F,12.1,9.2,1.033,197.0
+Resident Evil 5,21690,steam_dataset,mixed,9.1,F,12.1,10.533,1.217,566.0
+Travellers Rest,1139980,steam_dataset,mixed,7.1,F,12.1,8.75,0.767,990.0
+War Thunder,236390,steam_dataset,mixed,45.4,D,12.1,8.15,13.767,50478.0
+Watch_Dogs™,243470,steam_dataset,mixed,2.5,F,12.1,8.85,0.083,388.0
+DJMAX RESPECT V,960170,steam_dataset,mixed,18.4,F,12.0,8.483,3.05,854.0
+Frostpunk 2,1601580,steam_dataset,mixed,30.5,F,12.0,8.65,9.067,525.0
+ShellShock Live,326460,steam_dataset,mixed,30.0,F,12.0,8.283,9.233,297.0
+A Hat in Time,253230,steam_dataset,mixed,1.5,F,11.9,8.667,0.217,131.0
+Clone Drone in the Danger Zone,597170,steam_dataset,mixed,4.6,F,11.9,8.617,0.767,212.0
+Crab Champions,774801,steam_dataset,mixed,23.7,F,11.9,8.317,5.033,796.0
+Dishonored,205100,steam_dataset,mixed,12.3,F,11.9,9.483,2.067,288.0
+Prison Architect,233450,steam_dataset,mixed,21.1,F,11.9,8.35,3.967,781.0
+Death Must Die,2334730,steam_dataset,mixed,2.7,F,11.8,9.45,0.0,499.0
+DRAGON BALL FighterZ,678950,steam_dataset,mixed,4.3,F,11.8,8.533,0.317,511.0
+Gas Station Simulator,1149620,steam_dataset,mixed,24.7,F,11.8,9.717,5.333,958.0
+Sonic Frontiers,1237320,steam_dataset,mixed,9.0,F,11.8,8.75,1.533,144.0
+WorldBox - God Simulator,1206560,steam_dataset,mixed,13.4,F,11.8,8.45,1.683,1589.0
+Atomic Heart,668580,steam_dataset,mixed,11.1,F,11.7,9.767,1.633,466.0
+Battlefield™ 1,1238840,steam_dataset,mixed,22.3,F,11.7,8.183,3.2,6308.0
+Manor Lords,1363080,steam_dataset,mixed,22.5,F,11.7,8.767,4.033,1977.0
+Tower of Babel: Survivors of Chaos,2665680,steam_dataset,mixed,14.7,F,11.7,8.3,1.7,3392.0
+Kingdoms and Castles,569480,steam_dataset,mixed,2.9,F,11.6,9.183,0.367,317.0
+Rising Storm 2: Vietnam,418460,steam_dataset,mixed,11.7,F,11.6,8.333,1.583,449.0
+Batman: Arkham City - Game of the Year Edition,200260,steam_dataset,mixed,9.5,F,11.5,8.3,1.083,655.0
+Chivalry 2,1824220,steam_dataset,mixed,23.2,F,11.5,8.083,4.4,1565.0
+GROUND BRANCH,16900,steam_dataset,mixed,6.8,F,11.5,8.333,0.967,349.0
+RuneScape: Dragonwilds,1374490,steam_dataset,mixed,27.3,F,11.5,9.583,6.65,851.0
+Company of Heroes,228200,steam_dataset,mixed,20.9,F,11.4,8.05,3.733,864.0
+Geometry Dash,322170,steam_dataset,mixed,34.8,F,11.4,7.867,6.583,27850.0
+Sunkenland,2080690,steam_dataset,mixed,20.3,F,11.4,8.05,4.067,472.0
+Resident Evil 7 Biohazard,418370,steam_dataset,mixed,16.5,F,11.3,9.633,2.683,792.0
+Wolfenstein II: The New Colossus,612880,steam_dataset,mixed,4.5,F,11.3,9.633,0.683,290.0
+Against the Storm,1336490,steam_dataset,mixed,34.3,F,11.2,7.7,11.033,958.0
+Prey,480490,steam_dataset,mixed,12.3,F,11.2,8.017,2.1,263.0
+The Forever Winter,2828860,steam_dataset,mixed,3.1,F,11.2,8.25,0.317,379.0
+Battlefield 4™,1238860,steam_dataset,mixed,17.5,F,11.1,7.833,2.683,1153.0
+Touhou Mystia's Izakaya,1584090,steam_dataset,mixed,27.2,F,11.1,7.683,6.533,852.0
+Warhammer: Vermintide 2,552500,steam_dataset,mixed,37.8,D,11.1,7.567,12.45,2124.0
+A Plague Tale: Innocence,752590,steam_dataset,mixed,15.4,F,11.0,9.733,3.033,145.0
+Call of Duty®: Modern Warfare® 2 (2009),10180,steam_dataset,mixed,21.7,F,11.0,7.75,4.683,399.0
+Need for Speed™ Heat,1222680,steam_dataset,mixed,23.2,F,11.0,7.683,4.483,1385.0
+Risk of Rain Returns,1337520,steam_dataset,mixed,2.5,F,11.0,7.983,0.433,220.0
+Town of Salem,334230,steam_dataset,mixed,1.2,F,11.0,8.033,0.0,117.0
+BioShock Infinite,8870,steam_dataset,mixed,14.1,F,10.9,9.05,2.467,301.0
+ENDER LILIES: Quietus of the Knights,1369630,steam_dataset,mixed,5.0,F,10.8,9.983,0.85,181.0
+Hello Kitty Island Adventure,2495100,steam_dataset,mixed,33.2,F,10.8,7.4,10.133,1129.0
+"Hot Dogs, Horseshoes & Hand Grenades",450540,steam_dataset,mixed,10.7,F,10.8,7.767,1.683,218.0
+Mafia: Definitive Edition,1030840,steam_dataset,mixed,23.2,F,10.8,9.783,4.95,686.0
+WolfQuest: Anniversary Edition,926990,steam_dataset,mixed,3.6,F,10.8,10.65,0.0,869.0
+Age of Mythology: Extended Edition,266840,steam_dataset,mixed,3.6,F,10.7,7.817,0.0,804.0
+Black Mesa,362890,steam_dataset,mixed,18.7,F,10.7,7.75,3.217,907.0
+Devil May Cry 5,601150,steam_dataset,mixed,9.6,F,10.7,7.65,0.933,2248.0
+Gears 5,1097840,steam_dataset,mixed,1.4,F,10.7,8.3,0.0,230.0
+Into the Breach,590380,steam_dataset,mixed,7.0,F,10.7,8.35,1.05,285.0
+NARUTO SHIPPUDEN: Ultimate Ninja STORM 4,349040,steam_dataset,mixed,13.6,F,10.7,8.167,2.25,384.0
+NARUTO TO BORUTO: SHINOBI STRIKER,633230,steam_dataset,mixed,12.3,F,10.7,7.65,2.1,255.0
+Tropico 6,492720,steam_dataset,mixed,22.6,F,10.7,7.467,4.667,575.0
+Two Point Hospital,535930,steam_dataset,mixed,15.4,F,10.7,7.6,2.567,518.0
+Control Ultimate Edition,870780,steam_dataset,mixed,19.4,F,10.6,7.967,3.617,648.0
+Hardspace: Shipbreaker,1161580,steam_dataset,mixed,24.0,F,10.6,7.433,5.95,270.0
+Heroes® of Might & Magic® III - HD Edition,297000,steam_dataset,mixed,4.3,F,10.6,7.7,0.05,1213.0
+Jurassic World Evolution 2,1244460,steam_dataset,mixed,20.8,F,10.6,7.467,3.65,1413.0
+No Rest for the Wicked,1371980,steam_dataset,mixed,30.2,F,10.6,7.333,8.217,947.0
+UBOAT,494840,steam_dataset,mixed,37.0,D,10.6,7.233,14.467,633.0
+The Callisto Protocol™,1544020,steam_dataset,mixed,23.0,F,10.5,8.733,6.1,46.0
+9 Kings,2784470,steam_dataset,mixed,33.3,F,10.4,8.367,8.117,6920.0
+DOOM,379720,steam_dataset,mixed,18.0,F,10.4,8.167,2.767,1590.0
+Portal 2,620,steam_dataset,mixed,17.6,F,10.4,8.1,2.567,1959.0
+Your Only Move Is HUSTLE,2212330,steam_dataset,mixed,15.0,F,10.4,8.433,2.4,613.0
+Dispatch,2592160,steam_dataset,mixed,20.1,F,10.3,9.5,4.85,0.0
+ENDLESS™ Space 2,392110,steam_dataset,mixed,25.4,F,10.3,7.183,6.183,359.0
+Game Dev Tycoon,239820,steam_dataset,mixed,20.2,F,10.3,8.117,4.6,157.0
+Assetto Corsa Competizione,805550,steam_dataset,mixed,17.2,F,10.2,7.233,2.25,1479.0
+Infection Free Zone,1465460,steam_dataset,mixed,12.6,F,10.2,7.25,1.767,806.0
+Metro: Last Light Redux,287390,steam_dataset,mixed,23.0,F,10.2,8.35,5.35,320.0
+ACE COMBAT™ 7: SKIES UNKNOWN,502500,steam_dataset,mixed,17.5,F,10.1,7.15,3.333,340.0
+Brick Rigs,552100,steam_dataset,mixed,12.0,F,10.1,7.267,1.383,983.0
+Hitman: Absolution™,203140,steam_dataset,mixed,40.8,D,10.1,7.6,19.7,618.0
+Planet Zoo,703080,steam_dataset,mixed,17.8,F,10.1,7.117,2.417,2497.0
+The Elder Scrolls IV: Oblivion® Game of the Year Edition (2009),22330,steam_dataset,mixed,8.3,F,10.1,7.267,0.883,1156.0
+Tiny Bunny,1421250,steam_dataset,mixed,16.0,F,10.1,9.117,3.417,37.0
+"Warhammer 40,000: Inquisitor - Martyr",527430,steam_dataset,mixed,38.1,D,10.1,6.883,18.2,208.0
+Dragon Age™ Inquisition,1222690,steam_dataset,mixed,39.3,D,10.0,6.783,18.0,454.0
+Life is Strange: Before the Storm,554620,steam_dataset,mixed,0.3,F,10.0,9.467,0.0,35.0
+Blade and Sorcery,629730,steam_dataset,mixed,19.7,F,9.9,6.95,3.683,657.0
+Empyrion - Galactic Survival,383120,steam_dataset,mixed,44.6,D,9.9,6.683,21.733,990.0
+Idle Slayer,1353300,steam_dataset,mixed,17.3,F,9.9,7.033,2.467,1300.0
+Pummel Party,880940,steam_dataset,mixed,28.0,F,9.9,7.15,6.8,1096.0
+theHunter: Call of the Wild™,518790,steam_dataset,mixed,31.1,F,9.9,6.85,7.7,2207.0
+Forts,410900,steam_dataset,mixed,14.6,F,9.8,7.0,2.483,379.0
+GTFO,493520,steam_dataset,mixed,10.3,F,9.8,7.05,1.617,307.0
+HITMAN World of Assassination,1659040,steam_dataset,mixed,20.2,F,9.8,6.883,3.017,2637.0
+L.A. Noire,110800,steam_dataset,mixed,6.2,F,9.8,7.083,1.05,150.0
+Mortal Kombat 11,976310,steam_dataset,mixed,16.8,F,9.8,6.95,2.583,1026.0
+Paint the Town Red,337320,steam_dataset,mixed,15.1,F,9.8,6.967,2.717,296.0
+SANABI,1562700,steam_dataset,mixed,23.6,F,9.8,8.967,6.067,160.0
+The Walking Dead: Season Two,261030,steam_dataset,mixed,1.2,F,9.8,9.383,0.0,199.0
+Contraband Police,756800,steam_dataset,mixed,26.1,F,9.7,8.0,6.617,429.0
+Outward Definitive Edition,794260,steam_dataset,mixed,27.7,F,9.7,6.733,7.367,469.0
+Slime Rancher 2,1657630,steam_dataset,mixed,27.2,F,9.7,6.75,7.017,524.0
+DREDGE,1562430,steam_dataset,mixed,24.8,F,9.6,8.383,5.833,517.0
+Just Cause™ 3,225540,steam_dataset,mixed,22.9,F,9.6,6.717,4.867,639.0
+Marvel's Guardians of the Galaxy,1088850,steam_dataset,mixed,16.8,F,9.6,8.05,3.333,219.0
+Necesse,1169040,steam_dataset,mixed,24.7,F,9.6,6.767,5.767,507.0
+STAR WARS™: The Old Republic™,1286830,steam_dataset,mixed,31.8,F,9.6,6.6,7.0,6625.0
+SurrounDead,1645820,steam_dataset,mixed,24.5,F,9.5,6.667,4.783,1870.0
+Dwarf Fortress,975370,steam_dataset,mixed,29.0,F,9.4,6.5,7.317,915.0
+Resident Evil 3,952060,steam_dataset,mixed,28.8,F,9.4,7.733,8.3,362.0
+Sniper Elite 4,312660,steam_dataset,mixed,22.0,F,9.4,6.583,4.617,541.0
+Spiritfarer®: Farewell Edition,972660,steam_dataset,mixed,17.5,F,9.4,6.65,2.983,702.0
+Teardown,1167630,steam_dataset,mixed,13.4,F,9.4,6.717,1.633,1984.0
+Tinkerlands,2617700,steam_dataset,mixed,19.7,F,9.4,8.333,3.25,1543.0
+Void War,2853590,steam_dataset,mixed,32.6,F,9.4,9.017,9.267,1571.0
+Cuphead,268910,steam_dataset,mixed,18.8,F,9.3,6.6,2.617,2080.0
+METAL GEAR RISING: REVENGEANCE,235460,steam_dataset,mixed,2.0,F,9.3,7.483,0.183,242.0
+Mortal Kombat X,307780,steam_dataset,mixed,13.5,F,9.3,6.667,1.817,426.0
+PEAK,3527290,steam_dataset,mixed,13.4,F,9.3,7.5,2.667,0.0
+VTOL VR,667970,steam_dataset,mixed,5.3,F,9.3,6.733,0.85,222.0
+Generation Zero®,704270,steam_dataset,mixed,24.1,F,9.2,6.4,6.117,234.0
+Sleeping Dogs: Definitive Edition,307690,steam_dataset,mixed,24.3,F,9.2,6.417,5.6,524.0
+Enter the Gungeon,311690,steam_dataset,mixed,21.2,F,9.1,6.383,3.75,1165.0
+Mini Motorways,1127500,steam_dataset,mixed,13.5,F,9.1,6.567,2.283,328.0
+Outer Wilds,753640,steam_dataset,mixed,13.8,F,9.1,6.5,1.967,928.0
+"Ranch Simulator: Build, Hunt, Farm",1119730,steam_dataset,mixed,15.7,F,9.1,6.45,2.233,1488.0
+The Evil Within,268050,steam_dataset,mixed,13.9,F,9.1,6.467,2.567,211.0
+The Wolf Among Us,250320,steam_dataset,mixed,8.6,F,9.1,8.65,1.483,116.0
+Call of Duty® 4: Modern Warfare® (2007),7940,steam_dataset,mixed,9.8,F,9.0,6.433,1.467,377.0
+HuniePop,339800,steam_dataset,mixed,1.1,F,9.0,7.683,0.0,178.0
+Resident Evil 4 (2005),254700,steam_dataset,mixed,8.8,F,9.0,6.483,1.117,673.0
+Tomb Raider Game of the Year,203160,steam_dataset,mixed,17.7,F,9.0,7.717,3.167,556.0
+Deus Ex: Mankind Divided,337000,steam_dataset,mixed,16.2,F,8.9,6.283,3.2,205.0
+Dragon's Dogma: Dark Arisen,367500,steam_dataset,mixed,3.0,F,8.9,6.483,0.333,329.0
+Aliens: Fireteam Elite,1549970,steam_dataset,mixed,5.2,F,8.8,6.383,0.783,281.0
+Counter-Strike: Source,240,steam_dataset,mixed,20.4,F,8.8,6.2,2.3,6187.0
+Crossout,386180,steam_dataset,mixed,53.0,C,8.8,5.833,98.533,2231.0
+Nubby's Number Factory,3191030,steam_dataset,mixed,10.2,F,8.8,8.033,1.333,731.0
+Revenge on gold diggers,3350200,steam_dataset,mixed,19.1,F,8.8,7.717,4.433,0.0
+The Long Dark,305620,steam_dataset,mixed,31.2,F,8.8,6.067,7.7,2575.0
+ULTRAKILL,1229490,steam_dataset,mixed,23.5,F,8.8,6.167,4.083,3122.0
+Undertale,391540,steam_dataset,mixed,17.2,F,8.8,6.217,2.067,3331.0
+Disco Elysium - The Final Cut,632470,steam_dataset,mixed,18.8,F,8.7,6.15,3.233,918.0
+Pro Soccer Online,1583320,steam_dataset,mixed,5.6,F,8.7,6.283,0.633,690.0
+SPORE™,17390,steam_dataset,mixed,12.8,F,8.7,6.2,1.9,599.0
+Trailmakers,585420,steam_dataset,mixed,38.1,D,8.7,5.933,15.117,903.0
+Broforce,274190,steam_dataset,mixed,45.2,D,8.6,5.967,34.483,283.0
+Police Simulator: Patrol Officers,997010,steam_dataset,mixed,22.6,F,8.6,6.417,5.217,318.0
+Cell to Singularity - Evolution Never Ends,977400,steam_dataset,mixed,24.2,F,8.5,5.983,4.067,3036.0
+Chants of Sennaar,1931770,steam_dataset,mixed,20.2,F,8.5,8.1,4.617,149.0
+Vampyr,427290,steam_dataset,mixed,7.6,F,8.5,6.333,1.167,267.0
+20 Minutes Till Dawn,1966900,steam_dataset,mixed,2.2,F,8.4,6.617,0.467,146.0
+Human Fall Flat,477160,steam_dataset,mixed,11.4,F,8.4,6.0,1.483,950.0
+The Walking Dead,207610,steam_dataset,mixed,21.3,F,8.4,6.3,4.267,614.0
+Microsoft Flight Simulator X: Steam Edition,314160,steam_dataset,mixed,4.1,F,8.3,6.067,0.0,486.0
+Noita,881100,steam_dataset,mixed,20.0,F,8.3,5.833,3.1,2019.0
+The Sims™ 4,1222670,steam_dataset,mixed,36.3,D,8.3,5.65,8.533,25276.0
+Titanfall® 2,1237970,steam_dataset,mixed,44.7,D,8.3,5.55,24.5,1173.0
+Overcooked! 2,728880,steam_dataset,mixed,15.8,F,8.2,5.8,2.117,2107.0
+STAR WARS™ Empire at War - Gold Pack,32470,steam_dataset,mixed,29.3,F,8.2,5.65,6.183,2818.0
+Wreckfest,228380,steam_dataset,mixed,2.8,F,8.2,5.967,0.3,328.0
+ATLYSS,2768430,steam_dataset,mixed,15.9,F,8.1,5.767,2.95,297.0
+Mafia II: Definitive Edition,1030830,steam_dataset,mixed,14.7,F,8.1,7.017,2.383,538.0
+Miscreated,299740,steam_dataset,mixed,0.5,F,8.1,5.917,0.0,37.0
+PC Building Simulator,621060,steam_dataset,mixed,1.4,F,8.1,5.883,0.183,132.0
+Rivals of Aether,383980,steam_dataset,mixed,5.2,F,8.1,5.833,0.783,285.0
+Street Fighter V,310950,steam_dataset,mixed,48.8,D,8.1,5.35,112.0,170.0
+The Talos Principle,257510,steam_dataset,mixed,8.7,F,8.1,5.9,1.5,117.0
+VA-11 Hall-A: Cyberpunk Bartender Action,447530,steam_dataset,mixed,12.5,F,8.1,6.9,2.417,62.0
+AdVenture Capitalist,346900,steam_dataset,mixed,5.5,F,8.0,5.833,0.283,1109.0
+DiRT Rally 2.0,690790,steam_dataset,mixed,12.9,F,8.0,5.7,1.917,631.0
+Golf With Your Friends,431240,steam_dataset,mixed,15.9,F,8.0,5.867,2.433,979.0
+Shop Titans,1258080,steam_dataset,mixed,51.3,C,8.0,5.317,33.05,3279.0
+SIGNALIS,1262350,steam_dataset,mixed,0.8,F,8.0,7.817,0.0,108.0
+Unturned,304930,steam_dataset,mixed,53.1,C,8.0,5.333,35.917,10408.0
+Deus Ex: Human Revolution - Director's Cut,238010,steam_dataset,mixed,12.2,F,7.9,5.667,2.183,193.0
+Golf It!,571740,steam_dataset,mixed,10.2,F,7.9,5.933,1.55,352.0
+Half-Life: Alyx,546560,steam_dataset,mixed,4.9,F,7.9,6.4,0.817,202.0
+inZOI,2456740,steam_dataset,mixed,11.0,F,7.9,5.8,1.383,1039.0
+Pacific Drive,1458140,steam_dataset,mixed,18.7,F,7.9,5.8,3.617,406.0
+Stacklands,1948280,steam_dataset,mixed,13.8,F,7.9,6.6,2.333,347.0
+Ori and the Blind Forest,261570,steam_dataset,mixed,1.5,F,7.8,5.7,0.0,172.0
+Spelunky 2,418530,steam_dataset,mixed,12.1,F,7.8,5.583,1.9,313.0
+Batman: Arkham Asylum Game of the Year Edition,35140,steam_dataset,mixed,37.2,D,7.7,5.533,14.8,601.0
+BLEACH Brave Souls,1201240,steam_dataset,mixed,5.8,F,7.7,5.567,0.267,1349.0
+Duck Game,312530,steam_dataset,mixed,4.6,F,7.7,5.617,0.833,112.0
+Escape the Backrooms,1943950,steam_dataset,mixed,23.7,F,7.7,6.433,4.533,1756.0
+Eternal Return,1049590,steam_dataset,mixed,45.1,D,7.7,5.167,16.517,12341.0
+Holdfast: Nations At War,589290,steam_dataset,mixed,8.4,F,7.7,5.567,1.367,223.0
+The Long Drive,1017180,steam_dataset,mixed,19.2,F,7.7,5.433,3.817,377.0
+Totally Accurate Battle Simulator,508440,steam_dataset,mixed,15.5,F,7.7,5.45,2.233,1299.0
+Turmoil,361280,steam_dataset,mixed,16.7,F,7.7,6.35,2.733,767.0
+MudRunner,675010,steam_dataset,mixed,24.9,F,7.6,5.267,6.367,280.0
+Party Animals,1260320,steam_dataset,mixed,15.3,F,7.6,5.433,1.867,3070.0
+STAR WARS™ Knights of the Old Republic™ II - The Sith Lords™,208580,steam_dataset,mixed,25.2,F,7.6,5.3,5.95,551.0
+The Binding of Isaac,113200,steam_dataset,mixed,2.2,F,7.6,5.517,0.333,213.0
+Don't Starve,219740,steam_dataset,mixed,10.7,F,7.5,5.4,1.067,1472.0
+Return of the Obra Dinn,653530,steam_dataset,mixed,1.1,F,7.5,6.933,0.0,166.0
+Stranded Deep,313120,steam_dataset,mixed,37.2,D,7.5,5.133,16.5,256.0
+Summer Memories,1227890,steam_dataset,mixed,5.4,F,7.5,5.65,0.317,1585.0
+Demonologist,1929610,steam_dataset,mixed,1.6,F,7.4,5.617,0.0,266.0
+Half-Life 2,220,steam_dataset,mixed,23.8,F,7.4,5.15,4.633,1555.0
+The Witcher 2: Assassins of Kings Enhanced Edition,20920,steam_dataset,mixed,17.7,F,7.4,5.2,3.233,479.0
+Train Simulator Classic,24010,steam_dataset,mixed,4.0,F,7.4,5.333,0.433,503.0
+World of Warships,552990,steam_dataset,mixed,46.9,D,7.4,4.95,20.633,8518.0
+Call of Duty®: WWII,476600,steam_dataset,mixed,1.8,F,7.3,6.533,0.0,298.0
+Total War: SHOGUN 2,34330,steam_dataset,mixed,40.1,D,7.3,4.967,15.35,1807.0
+Celeste,504230,steam_dataset,mixed,16.8,F,7.2,5.1,2.583,1174.0
+Hotline Miami 2: Wrong Number,274170,steam_dataset,mixed,5.2,F,7.2,5.25,0.683,437.0
+Age of Empires III: Definitive Edition,933110,steam_dataset,mixed,39.3,D,7.1,4.85,14.1,3016.0
+Grand Theft Auto V Enhanced,3240220,steam_dataset,mixed,37.6,D,7.1,4.85,9.3,39502.0
+KovaaK's,824270,steam_dataset,mixed,19.5,F,7.1,5.033,3.033,1719.0
+SpeedRunners,207140,steam_dataset,mixed,44.4,D,7.1,4.783,32.433,195.0
+Starship Troopers: Extermination,1268750,steam_dataset,mixed,15.0,F,7.1,5.033,2.717,283.0
+Verdun,242860,steam_dataset,mixed,0.5,F,7.1,5.233,0.0,64.0
+Age of History 3,2772750,steam_dataset,mixed,2.7,F,7.0,5.117,0.017,481.0
+Killing Floor,1250,steam_dataset,mixed,45.0,D,7.0,4.733,35.283,224.0
+Need for Speed™,1262540,steam_dataset,mixed,17.0,F,7.0,5.317,3.55,125.0
+S.T.A.L.K.E.R.: Call of Pripyat,41700,steam_dataset,mixed,34.0,F,7.0,4.817,13.533,142.0
+This War of Mine,282070,steam_dataset,mixed,30.9,F,7.0,4.833,8.883,756.0
+Assetto Corsa,244210,steam_dataset,mixed,21.8,F,6.9,4.883,2.85,8961.0
+Dead Space™ 2,47780,steam_dataset,mixed,1.5,F,6.9,5.583,0.333,82.0
+Nya Nya Nya Girls (ʻʻʻ)_(=^･ω･^=)_(ʻʻʻ),963330,steam_dataset,mixed,4.2,F,6.9,7.217,0.0,1281.0
+Pavlov,555160,steam_dataset,mixed,17.4,F,6.9,4.867,3.683,107.0
+ROUNDS,1557740,steam_dataset,mixed,14.0,F,6.9,4.9,2.2,555.0
+Titan Quest Anniversary Edition,475150,steam_dataset,mixed,27.0,F,6.9,4.767,6.8,599.0
+Borderlands Game of the Year Enhanced,729040,steam_dataset,mixed,15.2,F,6.8,4.867,2.45,620.0
+Company of Heroes 2,231430,steam_dataset,mixed,29.1,F,6.8,4.733,6.4,2330.0
+Escape Simulator,1435790,steam_dataset,mixed,14.9,F,6.8,5.067,2.333,674.0
+HELLDIVERS™ Dive Harder Edition,394510,steam_dataset,mixed,4.8,F,6.8,4.933,0.8,209.0
+High On Life,1583230,steam_dataset,mixed,10.3,F,6.8,6.25,1.617,299.0
+Ori and the Blind Forest: Definitive Edition,387290,steam_dataset,mixed,1.2,F,6.8,5.833,0.0,196.0
+Plague Inc: Evolved,246620,steam_dataset,mixed,22.7,F,6.8,4.983,4.25,1494.0
+POPUCOM,2543180,steam_dataset,mixed,12.2,F,6.8,4.833,1.183,4352.0
+Potion Craft: Alchemist Simulator,1210320,steam_dataset,mixed,26.2,F,6.8,4.967,6.0,941.0
+Metro 2033 Redux,286690,steam_dataset,mixed,14.2,F,6.7,5.467,1.967,1208.0
+A Dance of Fire and Ice,977950,steam_dataset,mixed,10.2,F,6.6,4.7,1.083,1870.0
+Draw & Guess,1483870,steam_dataset,mixed,13.1,F,6.6,5.2,2.233,296.0
+Need for Speed™ Payback,1262580,steam_dataset,mixed,4.2,F,6.6,4.783,0.717,204.0
+Streets of Rogue,512900,steam_dataset,mixed,1.9,F,6.6,4.8,0.0,317.0
+Astral Party,2622000,steam_dataset,mixed,41.4,D,6.5,4.417,16.7,3227.0
+Just Shapes & Beats,531510,steam_dataset,mixed,1.7,F,6.5,4.917,0.133,220.0
+Thronefall,2239150,steam_dataset,mixed,12.6,F,6.5,4.883,2.033,373.0
+World of Tanks Blitz,444200,steam_dataset,mixed,49.0,D,6.5,4.333,24.983,5707.0
+Alien: Isolation,214490,steam_dataset,mixed,27.3,F,6.4,4.433,7.9,211.0
+Baba Is You,736260,steam_dataset,mixed,24.5,F,6.4,4.433,6.183,269.0
+Castle Crashers®,204360,steam_dataset,mixed,11.8,F,6.4,4.583,1.733,443.0
+Civilization IV: Beyond the Sword,8800,steam_dataset,mixed,46.8,D,6.4,4.3,27.683,1395.0
+The Hungry Lamb: Traveling in the Late Ming Dynasty,2593370,steam_dataset,mixed,6.9,F,6.4,6.067,1.133,181.0
+EVE Online,8500,steam_dataset,mixed,34.4,F,6.3,4.35,8.4,3705.0
+FINAL FANTASY VII,39140,steam_dataset,mixed,2.3,F,6.3,4.6,0.0,386.0
+Little Nightmares II,860510,steam_dataset,mixed,11.6,F,6.3,5.9,1.983,229.0
+Phantasy Star Online 2 New Genesis,1056640,steam_dataset,mixed,48.5,D,6.3,4.233,30.133,1400.0
+Pizza Tower,2231450,steam_dataset,mixed,3.3,F,6.3,4.583,0.4,367.0
+Red Orchestra 2: Heroes of Stalingrad with Rising Storm,35450,steam_dataset,mixed,7.3,F,6.3,4.533,1.283,92.0
+Steep™,460920,steam_dataset,mixed,15.6,F,6.3,4.5,3.117,128.0
+The Escapists 2,641990,steam_dataset,mixed,17.9,F,6.3,4.8,3.683,214.0
+There Is No Game: Wrong Dimension,1240210,steam_dataset,mixed,0.3,F,6.3,5.883,0.0,34.0
+Ultimate Chicken Horse,386940,steam_dataset,mixed,5.7,F,6.3,4.683,0.8,350.0
+Heavy Rain,960910,steam_dataset,mixed,2.0,F,6.2,5.733,0.3,199.0
+Insurgency,222880,steam_dataset,mixed,44.6,D,6.2,4.167,36.0,154.0
+SMITE®,386360,steam_dataset,mixed,21.7,F,6.2,4.333,3.383,1853.0
+SOMA,282140,steam_dataset,mixed,13.7,F,6.2,5.233,2.717,57.0
+Yu-Gi-Oh! Duel Links,601510,steam_dataset,mixed,47.7,D,6.2,4.133,27.617,1856.0
+Black Desert,582660,steam_dataset,mixed,52.6,C,6.1,4.05,29.25,14345.0
+Dead Island Definitive Edition,383150,steam_dataset,mixed,5.4,F,6.1,4.65,0.733,410.0
+Enlisted,2051620,steam_dataset,mixed,37.8,D,6.1,4.183,12.95,2569.0
+Hero Siege,269210,steam_dataset,mixed,2.4,F,6.1,4.417,0.083,369.0
+Lobotomy Corporation | Monster Management Simulation,568220,steam_dataset,mixed,10.4,F,6.1,4.383,1.167,1524.0
+Mirror,644560,steam_dataset,mixed,2.0,F,6.1,5.267,0.467,106.0
+BONEWORKS,823500,steam_dataset,mixed,2.3,F,6.0,4.533,0.583,38.0
+The Crew™ 2,646910,steam_dataset,mixed,22.9,F,6.0,4.217,4.617,873.0
+Dome Keeper,1637320,steam_dataset,mixed,10.0,F,5.9,4.25,1.483,402.0
+S.T.A.L.K.E.R.: Shadow of Chernobyl,4500,steam_dataset,mixed,1.1,F,5.9,4.317,0.0,185.0
+A Way Out,1222700,steam_dataset,mixed,7.1,F,5.8,5.667,1.1,262.0
+Beyond: Two Souls,960990,steam_dataset,mixed,11.9,F,5.8,5.017,2.083,210.0
+Bopl Battle,1686940,steam_dataset,mixed,15.3,F,5.8,4.15,2.583,480.0
+CARRION,953490,steam_dataset,mixed,1.2,F,5.8,4.25,0.333,44.0
+Chivalry: Medieval Warfare,219640,steam_dataset,mixed,0.3,F,5.8,4.233,0.0,32.0
+Rome: Total War™ - Collection,4760,steam_dataset,mixed,3.0,F,5.8,4.25,0.067,552.0
+Shadow Warrior 2,324800,steam_dataset,mixed,5.7,F,5.8,4.2,1.05,61.0
+Stray,1332010,steam_dataset,mixed,8.3,F,5.8,5.3,1.117,498.0
+MiSide,2527500,steam_dataset,mixed,3.2,F,5.7,5.417,0.067,631.0
+UNO,470220,steam_dataset,mixed,4.4,F,5.7,4.1,0.667,291.0
+Crusader Kings II,203770,steam_dataset,mixed,28.9,F,5.6,3.883,6.683,1373.0
+Dorfromantik,1455840,steam_dataset,mixed,4.0,F,5.6,4.033,0.567,365.0
+Inside the Backrooms,1987080,steam_dataset,mixed,3.7,F,5.6,4.617,0.617,237.0
+SMITE 2,2437170,steam_dataset,mixed,33.9,F,5.6,3.833,8.883,4975.0
+City Car Driving,493490,steam_dataset,mixed,14.7,F,5.5,3.917,2.417,484.0
+Love Is All Around,2322560,steam_dataset,mixed,1.5,F,5.5,5.117,0.333,71.0
+Sally Face - Episode One,541570,steam_dataset,mixed,0.8,F,5.5,4.567,0.0,100.0
+Serious Sam 3: BFE,41070,steam_dataset,mixed,0.8,F,5.5,4.017,0.0,105.0
+Hi-Fi RUSH,1817230,steam_dataset,mixed,14.5,F,5.4,3.883,2.867,87.0
+Hotline Miami,219150,steam_dataset,mixed,12.4,F,5.4,3.9,1.967,404.0
+Katana ZERO,460950,steam_dataset,mixed,3.0,F,5.4,4.867,0.633,82.0
+Planet Coaster,493340,steam_dataset,mixed,19.0,F,5.4,3.817,3.433,687.0
+The Coffin of Andy and Leyley,2378900,steam_dataset,mixed,1.8,F,5.4,4.483,0.033,277.0
+Unheard - Voices of Crime,942970,steam_dataset,mixed,3.0,F,5.4,4.633,0.65,68.0
+Zero Hour,1359090,steam_dataset,mixed,22.5,F,5.4,4.333,5.733,75.0
+Alan Wake,108710,steam_dataset,mixed,13.7,F,5.3,3.75,2.567,165.0
+BattleBlock Theater®,238460,steam_dataset,mixed,0.7,F,5.3,4.183,0.033,78.0
+Firestone – Idle Clicker Online RPG,1013320,steam_dataset,mixed,52.2,C,5.3,3.533,69.367,1785.0
+Life is Strange - Episode 1,319630,steam_dataset,mixed,17.8,F,5.3,3.767,3.35,294.0
+RoboCop: Rogue City,1681430,steam_dataset,mixed,21.2,F,5.3,3.95,4.833,238.0
+Valiant Hearts: The Great War™ / Soldats Inconnus : Mémoires de la Grande Guerre™,260230,steam_dataset,mixed,0.3,F,5.3,5.167,0.0,25.0
+Albion Online,761890,steam_dataset,mixed,42.1,D,5.2,3.5,14.233,8184.0
+BioShock™ Remastered,409710,steam_dataset,mixed,17.5,F,5.2,3.85,3.3,364.0
+DEVOUR,1274570,steam_dataset,mixed,30.0,F,5.2,3.933,8.85,447.0
+Age of Empires: Definitive Edition,1017900,steam_dataset,mixed,10.0,F,5.1,3.633,1.383,559.0
+Command & Conquer™ Remastered Collection,1213210,steam_dataset,mixed,20.3,F,5.1,3.6,3.983,564.0
+Depth,274940,steam_dataset,mixed,0.3,F,5.1,3.733,0.0,13.0
+Doki Doki Literature Club Plus!,1388880,steam_dataset,mixed,0.6,F,5.1,4.333,0.0,76.0
+Ghostrunner,1139900,steam_dataset,mixed,14.0,F,5.1,3.833,2.617,174.0
+"Papers, Please",239030,steam_dataset,mixed,5.7,F,5.1,4.15,0.767,416.0
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,1922560,steam_dataset,mixed,26.3,F,5.1,3.517,6.167,855.0
+Z1 Battle Royale,433850,steam_dataset,mixed,6.1,F,5.1,3.667,0.533,1010.0
+Brawlhalla,291550,steam_dataset,mixed,23.2,F,5.0,3.533,3.083,14169.0
+Fallout 3: Game of the Year Edition,22370,steam_dataset,mixed,6.2,F,5.0,3.583,0.9,318.0
+Gems of War - Puzzle RPG,329110,steam_dataset,mixed,5.8,F,5.0,3.617,0.0,2002.0
+Guild Wars 2,1284210,steam_dataset,mixed,42.4,D,5.0,3.367,17.767,3277.0
+Halo Infinite,1240440,steam_dataset,mixed,36.3,D,5.0,3.4,11.733,2275.0
+Life is Strange 2,532210,steam_dataset,mixed,39.8,D,5.0,3.417,21.2,153.0
+Ryse: Son of Rome,302510,steam_dataset,mixed,14.6,F,5.0,4.55,2.9,83.0
+Sonic Adventure 2,213610,steam_dataset,mixed,4.2,F,5.0,3.617,0.683,234.0
+OneShot,420530,steam_dataset,mixed,12.1,F,4.9,4.45,2.283,76.0
+Slay the Princess — The Pristine Cut,1989270,steam_dataset,mixed,9.8,F,4.9,4.35,1.7,134.0
+Surviving Mars,464920,steam_dataset,mixed,19.9,F,4.9,3.483,3.9,507.0
+The Stanley Parable: Ultra Deluxe,1703340,steam_dataset,mixed,7.3,F,4.9,4.167,1.3,73.0
+Universe Sandbox,230290,steam_dataset,mixed,5.1,F,4.9,3.517,0.717,357.0
+PAYDAY™ The Heist,24240,steam_dataset,mixed,2.6,F,4.8,3.5,0.617,38.0
+Stronghold Crusader HD (2012),40970,steam_dataset,mixed,20.5,F,4.8,3.4,3.9,746.0
+BioShock™ 2 Remastered,409720,steam_dataset,mixed,20.0,F,4.7,3.367,4.467,198.0
+LEGO® Star Wars™ - The Complete Saga,32440,steam_dataset,mixed,7.0,F,4.7,3.4,1.017,334.0
+Muse Dash,774171,steam_dataset,mixed,27.9,F,4.7,3.267,7.2,672.0
+SUPER DISTRO,364690,steam_dataset,mixed,25.8,F,4.7,4.4,5.033,2861.0
+World War 3,674020,steam_dataset,mixed,0.4,F,4.7,3.433,0.0,59.0
+Counter-Strike,10,steam_dataset,mixed,42.0,D,4.6,3.083,13.933,7323.0
+Resident Evil Revelations 2,287290,steam_dataset,mixed,36.1,D,4.6,3.133,15.883,141.0
+RV There Yet?,3949040,steam_dataset,mixed,12.3,F,4.6,4.167,2.4,0.0
+Stick Fight: The Game,674940,steam_dataset,mixed,4.5,F,4.6,3.333,0.7,265.0
+Alice: Madness Returns,19680,steam_dataset,mixed,18.2,F,4.5,3.15,3.7,260.0
+Blasphemous,774361,steam_dataset,mixed,15.9,F,4.5,3.2,2.717,479.0
+Chained Together,2567870,steam_dataset,mixed,14.1,F,4.5,4.017,1.967,1154.0
+Idle Champions of the Forgotten Realms,627690,steam_dataset,mixed,53.6,C,4.5,2.95,117.0,3034.0
+Rhythm Doctor,774181,steam_dataset,mixed,14.5,F,4.5,3.5,2.933,60.0
+Sifu,2138710,steam_dataset,mixed,7.5,F,4.5,3.267,1.05,394.0
+Skullgirls 2nd Encore,245170,steam_dataset,mixed,15.1,F,4.5,3.233,3.0,112.0
+The Henry Stickmin Collection,1089980,steam_dataset,mixed,1.1,F,4.5,4.317,0.0,185.0
+The Witcher: Enhanced Edition Director's Cut,20900,steam_dataset,mixed,13.8,F,4.5,3.233,2.117,616.0
+Devil May Cry HD Collection,631510,steam_dataset,mixed,13.1,F,4.4,3.15,1.933,675.0
+Half-Life: Opposing Force,50,steam_dataset,mixed,0.7,F,4.4,3.367,0.033,74.0
+POSTAL 2,223470,steam_dataset,mixed,10.7,F,4.4,3.167,1.683,320.0
+Resident Evil,304240,steam_dataset,mixed,18.8,F,4.4,3.133,4.05,186.0
+STAR WARS™ Knights of the Old Republic™,32370,steam_dataset,mixed,25.7,F,4.4,3.067,6.433,424.0
+STEINS;GATE,412830,steam_dataset,mixed,17.2,F,4.4,3.117,3.567,157.0
+Battlerite,504370,steam_dataset,mixed,0.8,F,4.3,3.167,0.0,103.0
+Firewatch,383870,steam_dataset,mixed,20.9,F,4.3,4.033,5.017,81.0
+Game of Thrones: Kingsroad,3183280,steam_dataset,mixed,23.3,F,4.3,3.033,4.15,2634.0
+INSIDE,304430,steam_dataset,mixed,6.9,F,4.3,3.95,1.183,129.0
+Shadow Tactics: Blades of the Shogun,418240,steam_dataset,mixed,13.7,F,4.3,3.067,2.483,218.0
+"STAR WARS™ Battlefront II (Classic, 2005)",6060,steam_dataset,mixed,11.6,F,4.3,3.1,1.867,323.0
+Backrooms: Escape Together,2141730,steam_dataset,mixed,22.6,F,4.2,3.683,4.817,569.0
+Bayonetta,460790,steam_dataset,mixed,0.9,F,4.2,3.067,0.033,109.0
+GRIS,683320,steam_dataset,mixed,25.6,F,4.2,2.95,7.367,67.0
+Hellblade: Senua's Sacrifice,414340,steam_dataset,mixed,18.3,F,4.2,3.317,4.067,73.0
+Outlast 2,414700,steam_dataset,mixed,37.0,D,4.2,3.0,17.183,119.0
+STAR WARS™: Squadrons,1222730,steam_dataset,mixed,17.1,F,4.2,3.05,3.667,79.0
+Supermarket Together,2709570,steam_dataset,mixed,20.8,F,4.2,2.933,3.067,4704.0
+Besiege,346010,steam_dataset,mixed,3.2,F,4.1,2.983,0.55,243.0
+Content Warning,2881650,steam_dataset,mixed,10.1,F,4.1,3.483,1.317,722.0
+Dead Space (2008),17470,steam_dataset,mixed,20.0,F,4.1,2.883,4.8,43.0
+Bodycam,2406770,steam_dataset,mixed,7.2,F,4.0,2.883,0.983,422.0
+IdleOn,1476970,steam_dataset,mixed,53.6,C,4.0,2.633,45.167,11081.0
+Just Cause 2,8190,steam_dataset,mixed,0.7,F,4.0,2.967,0.0,90.0
+Unpacking,1135690,steam_dataset,mixed,2.9,F,4.0,3.817,0.5,260.0
+Bastion,107100,steam_dataset,mixed,0.3,F,3.9,3.15,0.0,15.0
+Beholder,475550,steam_dataset,mixed,15.2,F,3.9,2.867,2.983,138.0
+ICEY,553640,steam_dataset,mixed,16.1,F,3.9,2.783,3.45,26.0
+Gang Beasts,285900,steam_dataset,mixed,8.2,F,3.8,2.75,1.183,376.0
+Outlast,238320,steam_dataset,mixed,14.0,F,3.8,2.733,2.583,215.0
+Portal,400,steam_dataset,mixed,17.8,F,3.8,2.8,3.133,638.0
+Sonic Mania,584400,steam_dataset,mixed,9.4,F,3.8,2.717,1.7,78.0
+Crypt of the NecroDancer,247080,steam_dataset,mixed,4.1,F,3.7,2.65,0.75,114.0
+Firework,1288310,steam_dataset,mixed,0.3,F,3.7,3.417,0.0,40.0
+Left 4 Dead,500,steam_dataset,mixed,5.9,F,3.7,2.65,0.65,774.0
+TAIKU MANSION,529760,steam_dataset,mixed,5.7,F,3.7,3.817,0.0,3278.0
+To the Moon,206440,steam_dataset,mixed,1.7,F,3.7,3.583,0.4,86.0
+Mirror 2: Project X,1832640,steam_dataset,mixed,1.5,F,3.6,2.617,0.417,11.0
+NEKOPARA Vol. 1,333600,steam_dataset,mixed,47.5,D,3.6,2.417,333.567,34.0
+SUPERHOT,322500,steam_dataset,mixed,1.4,F,3.6,2.967,0.4,43.0
+Tricolour Lovestory,668630,steam_dataset,mixed,0.4,F,3.6,2.65,0.017,22.0
+Goat Simulator,265930,steam_dataset,mixed,2.4,F,3.5,2.533,0.567,71.0
+Half-Life,70,steam_dataset,mixed,22.0,F,3.5,2.45,4.4,634.0
+Palia,2707930,steam_dataset,mixed,34.6,F,3.5,2.417,9.317,5140.0
+Super Meat Boy,40800,steam_dataset,mixed,42.3,D,3.5,2.4,27.233,72.0
+World of Tanks,1407200,steam_dataset,mixed,41.1,D,3.5,2.383,15.883,3869.0
+Bully: Scholarship Edition,12200,steam_dataset,mixed,3.7,F,3.4,2.433,0.633,221.0
+eFootball™,1665460,steam_dataset,mixed,41.9,D,3.4,2.283,13.967,13404.0
+MapleStory,216150,steam_dataset,mixed,53.4,C,3.4,2.25,62.9,8092.0
+Metro Exodus,1449560,steam_dataset,mixed,31.4,F,3.4,2.367,8.567,1391.0
+Mirror's Edge™,17410,steam_dataset,mixed,13.8,F,3.4,2.433,2.783,43.0
+"Warhammer 40,000: Gladius - Relics of War",489630,steam_dataset,mixed,27.8,F,3.4,2.367,6.517,1326.0
+Blood and Bacon,434570,steam_dataset,mixed,3.9,F,3.3,2.383,0.8,28.0
+NEEDY STREAMER OVERLOAD,1451940,steam_dataset,mixed,16.2,F,3.3,2.583,3.25,170.0
+Rec Room,471710,steam_dataset,mixed,47.9,D,3.3,2.2,34.8,1510.0
+Transistor,237930,steam_dataset,mixed,3.1,F,3.3,2.633,0.683,10.0
+BioShock™,7670,steam_dataset,mixed,6.4,F,3.2,2.317,1.183,44.0
+Liar's Bar,3097560,steam_dataset,mixed,9.3,F,3.2,2.733,1.233,605.0
+Realm of the Mad God Exalt,200210,steam_dataset,mixed,17.1,F,3.2,2.233,2.433,1853.0
+The Room,288160,steam_dataset,mixed,4.4,F,3.2,2.883,0.867,42.0
+嗜血印 Bloody Spell,992300,steam_dataset,mixed,17.1,F,3.2,2.3,3.7,62.0
+Bright Memory: Infinite,1178830,steam_dataset,mixed,6.0,F,3.1,2.25,1.117,44.0
+FAR: Lone Sails,609320,steam_dataset,mixed,0.8,F,3.1,2.817,0.0,112.0
+The Stanley Parable,221910,steam_dataset,mixed,1.0,F,3.1,2.4,0.233,21.0
+VRChat,438100,steam_dataset,mixed,49.9,D,3.1,2.067,23.133,34699.0
+Superliminal,1049410,steam_dataset,mixed,1.4,F,3.0,2.883,0.35,65.0
+Call of Duty®: Black Ops II,202970,steam_dataset,mixed,1.5,F,2.9,2.1,0.017,238.0
+Rain World,312520,steam_dataset,mixed,15.8,F,2.9,2.067,2.467,836.0
+Riders Republic,2290180,steam_dataset,mixed,18.3,F,2.9,2.05,3.9,171.0
+RISK: Global Domination,1128810,steam_dataset,mixed,18.9,F,2.9,2.033,2.883,2153.0
+Thief Simulator,704850,steam_dataset,mixed,3.2,F,2.9,2.083,0.55,243.0
+Hatred,341940,steam_dataset,mixed,2.1,F,2.8,2.067,0.533,67.0
+My Friend Pedro,557340,steam_dataset,mixed,0.3,F,2.8,2.067,0.0,22.0
+PICO PARK,1509960,steam_dataset,mixed,6.3,F,2.8,2.533,1.083,124.0
+Predecessor,961200,steam_dataset,mixed,12.0,F,2.8,1.983,1.4,1816.0
+The Elder Scrolls III: Morrowind® Game of the Year Edition,22320,steam_dataset,mixed,22.4,F,2.8,1.983,4.65,635.0
+Buckshot Roulette,2835570,steam_dataset,mixed,8.6,F,2.7,2.15,1.05,793.0
+Getting Over It with Bennett Foddy,240720,steam_dataset,mixed,9.7,F,2.7,1.917,1.633,192.0
+Hand Simulator,657200,steam_dataset,mixed,12.5,F,2.7,2.05,2.433,20.0
+Mouthwashing,2475490,steam_dataset,mixed,12.9,F,2.7,2.633,2.5,69.0
+ONE PIECE Bounty Rush,2918150,steam_dataset,mixed,20.0,F,2.7,1.867,3.383,1469.0
+KARDS - The WW2 Card Game,544810,steam_dataset,mixed,39.9,D,2.6,1.75,14.067,4796.0
+What Remains of Edith Finch,501300,steam_dataset,mixed,7.5,F,2.6,2.4,1.35,70.0
+Guilty as Sock!,3400930,steam_dataset,mixed,13.3,F,2.5,2.1,1.483,3056.0
+Pacify,967050,steam_dataset,mixed,4.5,F,2.5,2.1,0.85,77.0
+Little Nightmares,424840,steam_dataset,mixed,12.1,F,2.4,1.783,2.1,222.0
+Untitled Goose Game,837470,steam_dataset,mixed,7.6,F,2.4,1.983,1.333,100.0
+LIMBO,48000,steam_dataset,mixed,21.3,F,2.3,1.867,5.217,82.0
+Stumble Guys,1677740,steam_dataset,mixed,15.0,F,2.3,1.633,1.817,2928.0
+Brothers - A Tale of Two Sons,225080,steam_dataset,mixed,0.3,F,2.2,1.65,0.0,9.0
+Crab Game,1782210,steam_dataset,mixed,51.7,C,2.2,1.45,106.45,2921.0
+HITMAN™,382940,steam_dataset,mixed,0.3,F,2.2,2.167,0.0,0.0
+Need for Speed™ Most Wanted,1262560,steam_dataset,mixed,2.4,F,2.2,1.617,0.517,133.0
+War Robots,767560,steam_dataset,mixed,51.8,C,2.2,1.417,200.15,1280.0
+江湖客栈-The Jianghu,1881610,steam_dataset,mixed,4.4,F,2.2,1.6,0.0,1416.0
+Journey,638230,steam_dataset,mixed,13.6,F,2.1,1.85,2.7,60.0
+Russian Fishing 4,766570,steam_dataset,mixed,51.7,C,2.1,1.4,30.767,14950.0
+SCP: Secret Laboratory,700330,steam_dataset,mixed,31.6,F,2.1,1.433,7.467,4696.0
+Who's Your Daddy?!,427730,steam_dataset,mixed,12.8,F,2.1,1.483,2.467,75.0
+Fishing Planet,380600,steam_dataset,mixed,16.3,F,2.0,1.4,2.133,2781.0
+RuneScape ®,1343400,steam_dataset,mixed,26.4,F,2.0,1.383,5.217,2496.0
+Five Nights at Freddy's,319510,steam_dataset,mixed,22.6,F,1.9,1.333,5.683,118.0
+Gorilla Tag,1533390,steam_dataset,mixed,29.4,F,1.9,1.3,7.8,852.0
+LoveChoice,939400,steam_dataset,mixed,1.7,F,1.8,1.433,0.367,92.0
+Aimlabs,714010,steam_dataset,mixed,15.6,F,1.7,1.217,1.75,5223.0
+Hellslave,1608450,steam_dataset,mixed,9.1,F,1.7,1.233,0.85,2313.0
+VTube Studio,1325860,steam_dataset,mixed,40.1,D,1.7,1.183,12.5,10139.0
+Tiny Glade,2198150,steam_dataset,mixed,3.9,F,1.6,1.15,0.6,291.0
+Transformice,335240,steam_dataset,mixed,8.8,F,1.6,1.117,0.95,1284.0
+Poppy Playtime,1721470,steam_dataset,mixed,20.4,F,1.5,1.067,3.983,588.0
+Granado Espada,663090,steam_dataset,mixed,4.2,F,1.4,1.017,0.0,1313.0
+DOOM + DOOM II,2280,steam_dataset,mixed,3.0,F,1.3,0.95,0.333,345.0
+Bright Memory,955050,steam_dataset,mixed,0.3,F,1.2,0.967,0.0,5.0
+Knight Online,389430,steam_dataset,mixed,4.4,F,1.0,0.733,0.0,1421.0
+LIZARDS MUST DIE,2532550,steam_dataset,mixed,5.2,F,1.0,0.867,1.0,5.0
+Counter-Strike: Condition Zero,80,steam_dataset,mixed,5.0,F,0.7,0.517,0.767,276.0
+Milk inside a bag of milk inside a bag of milk,1392820,steam_dataset,mixed,12.9,F,0.5,0.433,2.55,13.0
+Sid Meier's Civilization® III Complete,3910,steam_dataset,mixed,36.3,D,0.5,0.35,12.467,1383.0
